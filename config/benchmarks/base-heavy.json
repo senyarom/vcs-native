@@ -1,0 +1,29 @@
+{
+  "name": "Military base, user's heavy view, 2026-09-07",
+  "position": [
+    -1587.21753,
+    -326.03833,
+    15.92793
+  ],
+  "direction": [
+    0.99267,
+    -0.00756,
+    -0.12062
+  ],
+  "source_report": "live-profile-20260907-135946",
+  "source_binary_sha256": "29f9db6da2cb36ead6a38ffa4d3ba939d76d6b331d4c59291e09df245440e53b",
+  "source_marker": "base-heavy-20260907",
+  "source_pose_samples": 21,
+  "graphics": {
+    "world": 3,
+    "lod": 3,
+    "internal_width": 1280,
+    "internal_height": 725,
+    "hd_textures": true,
+    "filter": "Bilinear",
+    "mipmapping": true,
+    "mip_filter": "Linear",
+    "anisotropy": 16
+  },
+  "replay_limitations": "Camera replay, not a full save state. The diagnostic pins and hides the player near the camera, fixes time at noon, and leaves NPC simulation running. Compare geometry counts as well as FPS."
+}

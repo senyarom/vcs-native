@@ -1,0 +1,27 @@
+# Files derived from the user's game copy.
+/assets/game/
+/game/generated/
+/game/bootstrap/initial-memory.bin
+/game/bootstrap/metadata.json
+*.iso
+*.cso
+EBOOT_DECRYPTED.*
+
+# Local player data and build outputs.
+/userdata/
+/run/
+/build/
+/build-*/
+/cmake-build-*/
+/work/
+/docs/
+CMakeUserPresets.json
+.DS_Store
+__pycache__/
+*.pyc
+*.log
+!/docs/**/*.log
+*.tmp
+.idea/
+.vs/
+.vscode/

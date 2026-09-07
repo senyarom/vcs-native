@@ -1,0 +1,1793 @@
+{
+  "verified_keys": 207,
+  "verified_occurrences": 255,
+  "all_current_original_pixels_match": true,
+  "all_current_native_hashes_match": true,
+  "records": [
+    {
+      "key": "0000000061b2242866a62865",
+      "location": "BEACH:base",
+      "image_key": "64x64:c98d0b4506d4121e1eba831b92516e03572acdfb483dad053207c5f71eba033f",
+      "raw_sha256": "b96eeedf4b61e353a6b8fd8378a01aa55ec1c711dfcef8e3ef8fa4ccc1f61568",
+      "palette_sha256": "ba17c76787677bb43073305409ac503aad446988cf1082d2d218ae279656c9cb"
+    },
+    {
+      "key": "000000002ff1eae2af45bf25",
+      "location": "BEACH:base",
+      "image_key": "64x64:426318f6077aea8c072616997263e6e955fe268b478b9a5c99b37d8c4c8dc193",
+      "raw_sha256": "5b8af20492f9617d31f8d8757ac8129dff2202a28cb5570f1171a4254fa1e5fa",
+      "palette_sha256": "44e383ffbe974b17f75d84a9005be053105612c2c77c142371f77b1db16331c6"
+    },
+    {
+      "key": "00000000e000583aef7e3d52",
+      "location": "BEACH:base",
+      "image_key": "128x128:8f3bbda0b3914c4837b307d01c531acae17f87e817fce16762c68198dad98398",
+      "raw_sha256": "cfcf1734d3dc77d8c0b0939ff3da556a6ecf3ac95e4dffe414e7adafc831abb6",
+      "palette_sha256": "2b7aee605197566b16b8846d53f157b4d4977cdc81fb611a042829a1f00ab39d"
+    },
+    {
+      "key": "00000000d3ea1e3d6ca08200",
+      "location": "BEACH:base",
+      "image_key": "64x64:256e49465aff14873238373ffbb2c69f7b790a92789b3ec948299fa667c9aa56",
+      "raw_sha256": "a0dd4fd7aee27fdaa89154c50141c5e1f49d525566093668493bc44039aba5ac",
+      "palette_sha256": "68c2b7c462c586f83b83b3e4bd897290d8dad84e14ecdc8ca75a1aa775d6926d"
+    },
+    {
+      "key": "0000000039731844fb41624d",
+      "location": "BEACH:base",
+      "image_key": "64x64:b5a71aba370c06aa678aa4e7911a1c0554b72d86ad7dcd3242c63eb53c443034",
+      "raw_sha256": "eaa6fb1bfc8bc90290a7acf87fc2522dcd0fc1233536cabb9cec21e196667f2b",
+      "palette_sha256": "11c900339b7f97c86c877826e994bea8c812251b51992f6ba69ca024f96ac415"
+    },
+    {
+      "key": "00000000dddc182bd069077c",
+      "location": "BEACH:base",
+      "image_key": "64x64:1476a6a60530a2db84a6457e476e1725279941b8d9525ab62e05ddfbf9badbf7",
+      "raw_sha256": "e19cebe1d6852d2a226b951b540a34f265a06348a33549b3ae03a8ed9b3509b7",
+      "palette_sha256": "4e0ad8ce7468113d146f0db3d8ecde8b9883ec405efade6f6ae6079669ad8fdf"
+    },
+    {
+      "key": "000000000c4ef32493d83e3a",
+      "location": "BEACH:base",
+      "image_key": "64x64:011b553b07b1d1a3d9577e7deaefea23f45b5e22347614151d21d89febfc37ec",
+      "raw_sha256": "db04049c2c9fbdd407778c8ef3e4bc32466544fa6ee1bf21a0433146bcc65a86",
+      "palette_sha256": "09ccaeef077dbce645914d4af9b883bb157b05e8704721c800705212045955fc"
+    },
+    {
+      "key": "00000000d0fc055638ff7492",
+      "location": "BEACH:base",
+      "image_key": "64x64:cd449b5d667d6177a8b753985bd5e565634ba226c45d68e2e3bc2e75dc0f0545",
+      "raw_sha256": "c5329864481c76ef1e2014c4cc35441483a0e6b50796f18987697eb9f60a6116",
+      "palette_sha256": "dff620350f819990fdb3fed73ff1814d6b7474170b0ab5a1d518343a2cd3fcec"
+    },
+    {
+      "key": "0000000072d9cc8675123c2f",
+      "location": "BEACH:base",
+      "image_key": "32x32:b18236780411a75fe8b9f92ffcaffe61aec22cfd189c5cc40a39345a1e5f0da1",
+      "raw_sha256": "96c25b36ff576f503279b499d696c96bb3d503650ccc85f29770104b2186735d",
+      "palette_sha256": "0aaf36798ca87e55fa7821ac09d5af4236ecc680a408c3c4aaf35f6cf0560f83"
+    },
+    {
+      "key": "00000000d06a61dc31b2a27d",
+      "location": "BEACH:base",
+      "image_key": "64x64:b0c6cc87af031886bdad9986e673ffd9b410e034361d5af4bcb2a45ef29f210e",
+      "raw_sha256": "40f865d329254c8435a7a02e6e388f3ceda71e19adf0af5386be065ce20e2e13",
+      "palette_sha256": "3f12302d98c4b5a097dd6ac6d917dedca63db5aa063087354ca2579264af1b5f"
+    },
+    {
+      "key": "00000000e5c3d1d7d39b7199",
+      "location": "BEACH:base",
+      "image_key": "32x32:896a6aa7512464d0360a51fb235376a93c129588e125a947eeac20685300abbb",
+      "raw_sha256": "ac561229590de1bd114e0a3e75ae60005415e8f726e64a2551cc6bd7d7d3bda8",
+      "palette_sha256": "d8df518322de46f296de314acb12a00e4d9d25d04e7631945c16e631cae3a9c9"
+    },
+    {
+      "key": "000000009178e34e62b8b8d9",
+      "location": "BEACH:base",
+      "image_key": "64x64:2c8af807d007d1fd527d2af9c06a1d6e1fd4d2f694a462446b70ccacca1467c4",
+      "raw_sha256": "e72ac99faebc3724d8437879c38d3c86bd0b07265fd5dd2f11b5cc9a300c0837",
+      "palette_sha256": "44c81602751213a8e3d2a708217162b391c985bf872b9eabd085bcc7a52b1248"
+    },
+    {
+      "key": "00000000a7f382945cddd9e4",
+      "location": "BEACH:base",
+      "image_key": "64x64:db7fad6c9a435127186c0e4e5c477cc1f945479e73eb20950393781286e74a78",
+      "raw_sha256": "6ade8f8232b9faa76428344552a3506be2fb6e9e88e9c7396b37fb099a611a99",
+      "palette_sha256": "acda7fa06b81c0841d1e75d530dde21c0f6b06863037b467dbf8cdd6a0baa018"
+    },
+    {
+      "key": "000000000213e7f551393fa4",
+      "location": "BEACH:base",
+      "image_key": "32x32:9d99414c27f14eed321d0b2d4a76334235340676c1054265d0d5c4d8829f9734",
+      "raw_sha256": "8c7710285407d04e7d6c275958cad6f2be8810e8532f45595fe7d84a731ceab5",
+      "palette_sha256": "ea59a02039b9ea2ae86a3a5cf6197d417aec6cfd0f5e937e01a888cb0d6774d9"
+    },
+    {
+      "key": "00000000b0034ce0ad68ac47",
+      "location": "BEACH:base",
+      "image_key": "32x32:7070b6340ea190c7885d62dc23459cc551d88c05b21f1627e922ac67a804e1cc",
+      "raw_sha256": "7fab4a1f60185afbd766703518bdabcd5af3961b02d1f4d78032f13e9f25a3d3",
+      "palette_sha256": "79f1fa0520037862bf431217b7e058766e9e0c75797f7df07f306765e319bf75"
+    },
+    {
+      "key": "000000008c8ef5941a1e8755",
+      "location": "BEACH:base",
+      "image_key": "64x64:ba59233cc774976140f2cba436549baf5cf595d5b527720ba5c0b165ac505eee",
+      "raw_sha256": "d48282b7c9444e0127c13ab39e24b932f811d73aeb8071ef8caf72b056a19fcb",
+      "palette_sha256": "2bc6a232b4a563345f4d4297b19ba2ae656a5630e8bf10180c19fb4af50449d9"
+    },
+    {
+      "key": "00000000b39f72da8ce885ee",
+      "location": "BEACH:base",
+      "image_key": "64x64:2b2ecabb58d168040009ee9a87930e323bdc332e1e50135b392a93c29429ef87",
+      "raw_sha256": "9f245e29f8b5bb536096002386fcb190e4e51709ec7e6638b150a59ee3ebc710",
+      "palette_sha256": "7fcf1049a2b051ca3680579de952ce514a5c8ecb375651fdb1dadde6da879824"
+    },
+    {
+      "key": "000000004e2102be03173ced",
+      "location": "BEACH:base",
+      "image_key": "64x64:1eac384c10a6119ab8722f3da72bcabb3c2b879ea9c69c546d7ee22552f6756c",
+      "raw_sha256": "8e2048c09abf4a3c1dabb9a2ed6d2dda8e8a54e6b966d11b5fe95314f40ddefb",
+      "palette_sha256": "85b4641d85c7618a97219bec27810c8427a15c1e5ba045ef7fda5765be7c2f9c"
+    },
+    {
+      "key": "00000000f30a29b9fe0ae31b",
+      "location": "BEACH:base",
+      "image_key": "64x64:aac0450327b18339721baf20a484794a9a5721e7f4e01d6981e8df18cf227361",
+      "raw_sha256": "769ec5e22a77fa1f2241dce01ccfa6e043c691cef16750f85b891c39725ae9f5",
+      "palette_sha256": "5f79625a0cc0c9188c840c086887de50c1d7f89f10ca390c28e7cbd5e7f30dfb"
+    },
+    {
+      "key": "00000000305e6dcbc1f328e5",
+      "location": "BEACH:base",
+      "image_key": "128x128:9cbaf2c99040ace273630d3bb3f9ebb9c0f0b6d75cab466be26223878f617ddf",
+      "raw_sha256": "04ba84ab82b7f4e689562b93292e9e76c997eecc7614f4e20542d4d3dea5521a",
+      "palette_sha256": "646f379431c92ad58cd0d786992246f2b9e907185e752f686b67aef97ae607e2"
+    },
+    {
+      "key": "00000000aeee0764559bacbd",
+      "location": "BEACH:base",
+      "image_key": "64x64:7dc50b650df18d83f113c5f75b432b486c42b26471a9c625c6fd8aed64390015",
+      "raw_sha256": "9b5f7408c8a46148c3ad1c45beba6655387de4cada9eeb566f2e9d57e7236334",
+      "palette_sha256": "1f904a8d43c6480ad02348a371c2a1c2c5b20f18df53e189c3355506604a0107"
+    },
+    {
+      "key": "00000000bb2ff1ee56bfd5a9",
+      "location": "BEACH:base",
+      "image_key": "32x32:0ab7673b26a2fa3653be1e9661684052c3dc4f7a5617d8e9d1a6d682efe829b3",
+      "raw_sha256": "cb381e61a1386a8b2bae8bda12a79112dace0fdd27aadb9b4b3fd1532f8accba",
+      "palette_sha256": "88ae936ca64560641eb87426b69cdc86dcd1a6b358c32a5f9d1c11ebf67d6016"
+    },
+    {
+      "key": "00000000e4e42a147ea52442",
+      "location": "BEACH:base",
+      "image_key": "64x64:a7f67ff93c1d1b0517149ec0829306f2fd17654ea544a6a56f5a0385f66cc5fd",
+      "raw_sha256": "c58c1373501bd55b3620b01ff64319da752a61b1ef6fa9179653b1fd538fc07a",
+      "palette_sha256": "95df695a2c9f8d10edae0d09286152d3109dd93aecc635c5fd615e27fac923d2"
+    },
+    {
+      "key": "00000000cd2a3dec1b0aaf84",
+      "location": "BEACH:base",
+      "image_key": "64x64:f26f71b8f2e726a93843abf386b1a4ee44634e3245b53ed0cd895012fca3d430",
+      "raw_sha256": "6b90c26031228dd59e09648773ef7b20ca4979dd784c0b3372ac22638fe34a7b",
+      "palette_sha256": "f9ae50ca8a0dc17c2fe6c97e3547aa05f0b8ee8a1b9968bb8ba03f79f6d5246c"
+    },
+    {
+      "key": "00000000a1ec171a56b3405e",
+      "location": "BEACH:base",
+      "image_key": "32x32:51c288da0c58ab37b5eb7d1880f3a1c3ae4859e84b51eb2b5b655cf2160fc9e7",
+      "raw_sha256": "c8340d8283d9daa3cefff1b232c45358daeac6b73d1e21c9a7193a6431fefe7d",
+      "palette_sha256": "4ab8cdcd45ded3010d442f90bb7780ecff2f868036101de1421a39e3fe0473e2"
+    },
+    {
+      "key": "00000000b798770766863647",
+      "location": "BEACH:base",
+      "image_key": "64x64:7cb95715928c6fd3051b7197e632c8543fcf220705883bc8c279645cfb36288f",
+      "raw_sha256": "251b5d468b6860f9f2581fa1017235097168f9bd991541905c04d209fe1716cf",
+      "palette_sha256": "532253be46e838dbfed125996f59510b94dc1aa77e7137e9ea8bfbbc057aaf0d"
+    },
+    {
+      "key": "00000000e652904665f8774b",
+      "location": "BEACH:base",
+      "image_key": "64x64:8253b5cec69224678f77913b66583b721ef3cbc315371b4a95b009533e9e1ab1",
+      "raw_sha256": "d4ebb1bb40607bc62cc6f3ece995915168564b609b1e7e748fb14f0a10c0169b",
+      "palette_sha256": "064d99ca12afe85d81ba03420e7aac1cd52a99bc93cd9ee3d3d6457063245def"
+    },
+    {
+      "key": "000000004860776c49fbf019",
+      "location": "BEACH:base",
+      "image_key": "64x64:1b01c3dc635c75940ef7eb6d67374cc0b3657e43acd777cdf3a88898cc791684",
+      "raw_sha256": "9b604672612d2002cfb33d104da6245a4db449ee8854984cd40d4cf9f78f3147",
+      "palette_sha256": "0e19a7d93ffe08c5d82cf9f94c2660f3370f880272dac10edaf17f034d2d9edb"
+    },
+    {
+      "key": "00000000182a1017d24dcc0a",
+      "location": "BEACH:base",
+      "image_key": "64x64:1d66d6337b7dff8f0719b0e7ca55ca1eae21a44347a50227b437c8950e11f7f7",
+      "raw_sha256": "4fc84b0196710aa35fc96b75429f16eb5a68e64fe3b81b58432925e52f04de90",
+      "palette_sha256": "59fc64a2e9b5927aa3f69d8514c5876f5acb8d9bbbdde5aaa71d4845578acf60"
+    },
+    {
+      "key": "00000000169ae7a166686182",
+      "location": "BEACH:base",
+      "image_key": "32x32:6aeea56ee49d3978875f40946314dcdc580457bb6b10c1adedb6ae98a56998d8",
+      "raw_sha256": "9f29a70fdb2f0791c1b0fd32f16b459143b6e6939406f88b806dd0bdd07f7dd3",
+      "palette_sha256": "8fb2efa9307e76eb8e709aaa2e35cb3e536a8012fb9ece55abf29d5cad6b1b7f"
+    },
+    {
+      "key": "00000000ae1f53de82e900cb",
+      "location": "BEACH:base",
+      "image_key": "64x64:112f978ba76a93a2cc6ce843d80ca7d82448dfb73737e923c95b007b6b91158b",
+      "raw_sha256": "1ba758eaff494dbe265aea3604c3091a4c5ef72cd2c35d1a2c1630ff033e1b08",
+      "palette_sha256": "7cab6f6ea34d4a42f761daf99823fa5c7162a51f1a881ca6c111b10fc3afc6d4"
+    },
+    {
+      "key": "00000000b8d9c5353c735fb5",
+      "location": "BEACH:base",
+      "image_key": "64x64:19cb119bbbd25dc3b1b5bfa9d05a8abc93f55605f34b0bae66d95b52363b7079",
+      "raw_sha256": "8f6d63d82d56b87bf12b26b7614ecc4987f35c27defc4bbc700f50461f1392e7",
+      "palette_sha256": "a0044906aea4de03eaec8c8013157c63eaa23aa6bde4d8cacc768616be3be3c8"
+    },
+    {
+      "key": "00000000a229639c9b3713c7",
+      "location": "BEACH:base",
+      "image_key": "64x64:c4a1828b0c48149da5fab119f950df5c0d441e85a49874f2b68b026b68530c03",
+      "raw_sha256": "b3b6e901c01d2005c87aeb838cede2f3e5f7f3ebbe5b26aac2001e33832a69a6",
+      "palette_sha256": "1c41b8773073189cedf86c35c5e3be53bd77dfe80a0420eac20ef8e627ef32e4"
+    },
+    {
+      "key": "0000000078a896664e1119e6",
+      "location": "BEACH:base",
+      "image_key": "64x64:e1f54d67d9907de3368fddc647dd61a2e56dbe452e42cf843bebcaa1882c0b60",
+      "raw_sha256": "1b7845c72f018088916f467f3d40977972ff1f647fdd049c6a7f2fe329de0f7c",
+      "palette_sha256": "3a78d11d37378e4b11ec99529d0ac34f344ef17d58fd9fb7d7138a365b53e41d"
+    },
+    {
+      "key": "000000005406527976db58cb",
+      "location": "BEACH:base",
+      "image_key": "64x64:fa7c9ccdbe62e3d6b64009c4d0a4f3ea20447eedd96dd04bae49f03998d832f8",
+      "raw_sha256": "8f4ceb058df971722679dc42fa5050f55a247d27ad8a89f6d4de222125b43177",
+      "palette_sha256": "81e99d71192096b3925e39fb46287aace9f7fa0f2c6aeec2ef3c78f72f061526"
+    },
+    {
+      "key": "00000000deefd0e974047760",
+      "location": "BEACH:base",
+      "image_key": "32x32:e1afbd43ca5ac757ab2145e1a2114c41cf644a1e0a5694eee243e93cdec6374d",
+      "raw_sha256": "eb6dfcb467a9e53be1b83f8babaf8596eeb9dda152745cc46f935fa8b06170aa",
+      "palette_sha256": "567fa8dc31e3ba1899deae8c79ae3dd3fe89cddbea8892a4e524105cc39d862d"
+    },
+    {
+      "key": "000000004d0310525a132739",
+      "location": "BEACH:base",
+      "image_key": "64x64:f1b626e7a7e6bdfd2ec854394b6e1aac9d042189d5a51463d7a0ceff7d948cab",
+      "raw_sha256": "b4c26aeace24e9186e860b198c0dc278c0ae374831fb06f7cb0fcb2124c677b3",
+      "palette_sha256": "e1cfdb495086fc0827ee9d7a62c10743c9580c55838e361c1024e3ac9672493e"
+    },
+    {
+      "key": "00000000dde043e0941968b6",
+      "location": "BEACH:base",
+      "image_key": "64x64:9a793e1ee4516dc85f827cbff44250383faf89280be1e7932f6b466436e64351",
+      "raw_sha256": "3f12dd74cf38c25456f8ab289803c58b2c4c7724097e9295d0db85df2138ae4b",
+      "palette_sha256": "118b55012fea21839761cc78b2c034c37c3ce52c70c0d5d359f27a56d9331fd0"
+    },
+    {
+      "key": "00000000a8356283cdfb8a54",
+      "location": "BEACH:base",
+      "image_key": "64x64:39797674ba76dc19e5fcab6ec5e99c26f2c09f337330051e56c0f41ddf4efab4",
+      "raw_sha256": "dc2961de5644626960563595954301dc730ebbd842fa532a5ebe0896a8b4ef81",
+      "palette_sha256": "0b031a29564495887a837f5a0036cd9786c0d4a0e2dc459f4b792625d043ba98"
+    },
+    {
+      "key": "000000005d5651b7830b8814",
+      "location": "BEACH:base",
+      "image_key": "64x64:901d467d51edea9339c4e157bde53714606e43b8d40ad02936082fc0ed038d11",
+      "raw_sha256": "78e8891e434a09c67f7f8dbf8a5c50c3d0c6d1efc294bbc491894717a4c386f6",
+      "palette_sha256": "a5d07426b4808a8046b16a1a1271126fb9c5f14a0f41168be6d9fc3a5f23428b"
+    },
+    {
+      "key": "000000006438215f5dcbb272",
+      "location": "BEACH:base",
+      "image_key": "64x64:5228b94dd1f02eab77545209f0cab9c536a6679e3da22fda624dfbdcbdd69ca7",
+      "raw_sha256": "076166788893fe2cf4b56bb6f11571151119fa8b7a174c3447d500e5cbc99ec0",
+      "palette_sha256": "cd4c2e707f0ccd4e2eb958cd94789ee1f775e3c4ed4a7ba37f34ec5e2bafb2ec"
+    },
+    {
+      "key": "00000000729f5d974376be56",
+      "location": "BEACH:base",
+      "image_key": "64x64:471ee54cbe441840f8709595ad8d6380ba072ce13a7fa290b9ad942b8e570639",
+      "raw_sha256": "0d8d65d7e74fd9feb53eeff6b32aea742c96c28d513745399a0eb9f382b37b32",
+      "palette_sha256": "f10ac705e29965de8f556deb426294f1230f346926d5837103590e605b4eb54d"
+    },
+    {
+      "key": "000000004fac0c29c7ea511b",
+      "location": "BEACH:base",
+      "image_key": "64x64:3412063a85e682c284077a5f282dfb152895c35a81ec8098f407271fe7c1127c",
+      "raw_sha256": "72ddb69e6d10a39b1c3a047d6d95ed2047d734e008074c16b0d4aae8da53b2ae",
+      "palette_sha256": "ac287aa6a355e590b275546b6629a38337ccb91dc2da4bc78ec274154c8d9a13"
+    },
+    {
+      "key": "0000000024dab60ade22bee8",
+      "location": "BEACH:base",
+      "image_key": "64x64:e68faa5722c33ae85f02720ef7f3dcfa043b4b62ba046ee5a4e163bc39c38348",
+      "raw_sha256": "0c188bde92c65d8c5440c52fc52bbbaad4c4ab114d3a28baa8a717b3f846f747",
+      "palette_sha256": "14ebfaf66a088cf80555536b9e6ef805ca790d2dcfd648cffa42f9ce994fec74"
+    },
+    {
+      "key": "000000007383941fcb7cb832",
+      "location": "BEACH:base",
+      "image_key": "32x32:9941991903abb0f0909946a24159780bc997e320b7da10111e89d57421e4fc5e",
+      "raw_sha256": "f4b62629942971222263e85b9d6ee278378b481924067751a1fc59c2610c72dc",
+      "palette_sha256": "08c062568aabde0f6f1dbba8421573d26d4ec8d528a2e623a60c8dc38c0c18d6"
+    },
+    {
+      "key": "0000000077160566b4930b49",
+      "location": "BEACH:base",
+      "image_key": "64x64:2c11e8c4571bac5330e5d4005c5a58468e9f91f1c4b92ea8eba5c06531ecd44f",
+      "raw_sha256": "cd3f50868ce95e53beef28a64e21213751f216e512956223fdb77d0ab86336cd",
+      "palette_sha256": "7fbe574e0a9fc4c3a433ae97ae5ba8ac3c3d657f9651bda1c4cc20c98d85e7b4"
+    },
+    {
+      "key": "000000007061d8dde6681a48",
+      "location": "BEACH:base",
+      "image_key": "64x64:6b4daa3b304ae320ff9c56b52707d7cb390683c678bec041c8e3602515878701",
+      "raw_sha256": "e753c8805c758c88fcf209d18ca70cc0c9e6e75443debd309831a90115810165",
+      "palette_sha256": "df0784fe9244ad7fc27dae9fca125845c043557d07a5f18fa281f836650dce2a"
+    },
+    {
+      "key": "00000000f354738e47951bff",
+      "location": "BEACH:base",
+      "image_key": "64x64:de275931ec1e1bc138a4d5c3574cdc2a42f1340eadcb2450ed7a60e9b6565889",
+      "raw_sha256": "8d7499ccc5838bef4102250f64ab5d071fceba616b12e54e262f346a7b689053",
+      "palette_sha256": "16313493c78bdaa143f3f799a48cefe6339d179be095d51a051e12d929f8544e"
+    },
+    {
+      "key": "0000000045c007ecccdd6656",
+      "location": "BEACH:base",
+      "image_key": "32x32:dbd2ebae172122bd0aac605defa5c8867a15e6e296fef20aabd665ecbf69fc08",
+      "raw_sha256": "db33080c41093c5690a2c63ee10914c671c04132f3fd7a43dc0bbfe57b3b3103",
+      "palette_sha256": "c1f95b09aec6ec9cfdab426e898fdf0723cb215eb90ed978dcb67d0c4b23b0f9"
+    },
+    {
+      "key": "00000000d7a682f7439afeaa",
+      "location": "BEACH:base",
+      "image_key": "32x32:724218c6b1a1bd3130e5134ee9e50e428ab041b3aaf7f10fb90cb0cff69278d7",
+      "raw_sha256": "0e6c4a35212af9fde18f4a82148829f1374967f2d14ac66a02f83d95537cc0eb",
+      "palette_sha256": "11c049acdfea4935bf0896632e1e6a6ea7803d9bbf6b9e86e6b692cf773f5de6"
+    },
+    {
+      "key": "00000000e0ebdb6d90321cff",
+      "location": "BEACH:base",
+      "image_key": "32x32:38cddf320ab1f38f536d4d10b7c61e6a0db333f18970422176e58875cfc320ae",
+      "raw_sha256": "9680aa51fce9c7e6544fc5edf3476b108035c36c45cbcdcfc4c8cfed22172cd8",
+      "palette_sha256": "3fd815c9cde25089983ca9d905e9a77d9318ba0a89fbee18ab8c510f862fa475"
+    },
+    {
+      "key": "0000000074bc4da6bca5a359",
+      "location": "BEACH:base",
+      "image_key": "32x32:34cf92afe76c31e44513d103daed87e4b152735860e5a7ce9e591f9cea7228aa",
+      "raw_sha256": "b379f3121c9393e2d86ebd687a519f0d536c98a53693b461efa8f63ba6c1571c",
+      "palette_sha256": "bde9d9bee3f08b3536042b7a51dbde458ac2c5af2acac8bf074d2f712a7fba6b"
+    },
+    {
+      "key": "0000000076ae47b21f98a32b",
+      "location": "BEACH:base",
+      "image_key": "64x64:2c76568bf5919617d87afc6d15bd8cdd9a9b9d0c41cd58d0de12e4b502baa1df",
+      "raw_sha256": "993975b5251e3a28699d9e0dac6279222caefcc77ae1e3f4026e55e4ac7739cc",
+      "palette_sha256": "09955ba0761675e54eba406d5aa97b19f822ce88c0c83b5f7669cc832475e993"
+    },
+    {
+      "key": "00000000872eb36ba4688020",
+      "location": "BEACH:base",
+      "image_key": "32x32:7ba79552a1da238d603be0bcec0ed05af5fb74490c9bc4b6d328f394d412d5fa",
+      "raw_sha256": "78d3f87c2f0346599b7a2e42fe448a5932101b2c5e52312b57eb96202b7d5277",
+      "palette_sha256": "c468ad8a3ded07f66b56ef9007d8f097d376a402b29b5e2ece282c50632dc182"
+    },
+    {
+      "key": "00000000d916e109f8a7417e",
+      "location": "BEACH:base",
+      "image_key": "32x32:d38fd0f5202f6d8d1c6108a3f614c067c97c1469dc8b9ebe955dc04fb2a29a60",
+      "raw_sha256": "a97a55493331eb058c41cea69c89f688301a5051ce509814595d5c1b226197e5",
+      "palette_sha256": "d6ebc172c516968637113a2e3f202b7942ecdae3daf27d0f278696984f76a84c"
+    },
+    {
+      "key": "00000000859b4d9cee8e3eaa",
+      "location": "BEACH:base",
+      "image_key": "64x64:1e16235635fbffd8589bae0f428aff9f4fd6b06942ae34668ee5dc303921f771",
+      "raw_sha256": "4273b18476c7a869c77e00028a50bac76628754e04ddc983c30031b2221709cc",
+      "palette_sha256": "286da22b641cdf85dcc464c63b3bfa0285de8dc174fac2feb7a07eff6009eb7b"
+    },
+    {
+      "key": "0000000069701ad4d10ad672",
+      "location": "BEACH:base",
+      "image_key": "64x64:4e77c5d4280e50979dcbb0b527b3d5dccf038fc8e4c564290dba637f23aa1481",
+      "raw_sha256": "c353d5133fc52d026bddf8d9a5ffc3ffcba8e261c341a485c858f226997bda39",
+      "palette_sha256": "783ab6c1a187bddba4cda4ff555f7d60d19900d4691da7492219684e94d7e3e5"
+    },
+    {
+      "key": "0000000082188f8b4fb8de2f",
+      "location": "BEACH:sector:35",
+      "image_key": "64x64:a01d4979ce367bd04f3b0ed10791861ad76dafd732f64d1175aa9fc25c32b77f",
+      "raw_sha256": "3aaeed15d1f786092e9440f6b920393c430bfad0652ab3f3b150a9797a5d525c",
+      "palette_sha256": "be66116eb26d7327af008503e82cb766375d4bd5635e2f3d8ce39d7ce4ed957b"
+    },
+    {
+      "key": "000000007f8199032aa69cba",
+      "location": "BEACH:sector:35",
+      "image_key": "32x32:ee4866134dc9049ace3f4026efd14dd01bc9344d613899da574a4f9e29e9dffc",
+      "raw_sha256": "ce43d48eafa870dbd9e0277e583cb1fda71bc952bfc7ce9c71a20ffab751176a",
+      "palette_sha256": "72414166c30d24e52b6c048cb1d0732c58aabafaa875e9d32904744de5ef8363"
+    },
+    {
+      "key": "0000000033628babeb28049b",
+      "location": "BEACH:sector:35",
+      "image_key": "32x32:44486a18bf043869d2928c368c0fe463f52b8a8ad601d67385ae809960552e83",
+      "raw_sha256": "86f6301a6aa4941a3de05de75cebe3dde78426cd1fb969284359c4e1ee467c14",
+      "palette_sha256": "a8c924357f6d0c4265f62cd0636a9943c374551cef998f69f03621a1a6088aca"
+    },
+    {
+      "key": "00000000e6ef772317bde6c1",
+      "location": "BEACH:sector:53",
+      "image_key": "32x32:8ac5ea3566be72500ca123c21cd7830cb32b7b75450df762f6fddb001cc64336",
+      "raw_sha256": "9ecdca52b507f4fe23c1fab8b26ce84bedb589624d981c721fa4c7de9fe2b00d",
+      "palette_sha256": "7efa5f5798cf40c2056c10820790b35805fc6b7da139426d3ed3fdc71d0ccd4e"
+    },
+    {
+      "key": "000000008eb50b186f058e1e",
+      "location": "BEACH:sector:53",
+      "image_key": "64x64:c8faaaf4a99cfb1e60fcbf8d25d5bcd3550cf2211931e64af0c358680c485197",
+      "raw_sha256": "19adea7f9aafa9d22cb883ad027ee181748004b35f4c554681157d59abdfe808",
+      "palette_sha256": "550daf5d42bc0491673e7e966cae7a9e77fcb6e6893cfa854d0b5a76e6c08b87"
+    },
+    {
+      "key": "0000000072034a56a1ac0c5b",
+      "location": "BEACH:sector:53",
+      "image_key": "32x32:aed1f8624e3f35c4996ed0b26eb8fc75e20e039e32786c2acc5d2dfb5b801bbd",
+      "raw_sha256": "05881de05477891713eeff9c6cae8ea848367a1d7d5f5bff26b449e58608ca9e",
+      "palette_sha256": "5ffcab3be4f8ab2c94564c94646da918b36448e4a25ee7cf195dddd7b64e3ad0"
+    },
+    {
+      "key": "000000001eafb8c7b9b2bc69",
+      "location": "BEACH:sector:70",
+      "image_key": "64x64:96ab0d1d2643821bbf5eb1e35e6559e3aead5872b04b1accd7138226f75b67b0",
+      "raw_sha256": "50f59c8d19fa87c315837e277ffb780e708aab477e447c8b943a1e552b7b7f24",
+      "palette_sha256": "2a8b9017d8740571147147a5ec76d3887478f5bbe830115c8082e93a78419b93"
+    },
+    {
+      "key": "000000003c0ffc9e5a768448",
+      "location": "BEACH:sector:75",
+      "image_key": "64x64:2f416f0a9d09f2918673a17de223378a64302abad2414bb9a9afc2d7c5e121d2",
+      "raw_sha256": "20cb4e5b443cacf41df41027c707f8b4fca08db20968ed5c0b5bc7a3975c2f1d",
+      "palette_sha256": "b1df0fa1c05efee756ece0271704c03be687e5b46d561c72271ffdcc1b0721f4"
+    },
+    {
+      "key": "00000000499d5936db04237e",
+      "location": "BEACH:sector:76",
+      "image_key": "64x64:ac4160ffbfe5ea02ff12a340366a0b66690e1f47d3c1603b7bdeb8f5d3abead5",
+      "raw_sha256": "33d205a37a2c105f0c5acd2d5f84320d179c8fc3d98fa956dff9c429cf499af8",
+      "palette_sha256": "579851f06528714cfc3af2eedd45b66bffa7680e9e6523e399f3dff9cabea18f"
+    },
+    {
+      "key": "00000000862915ac0aaa8e5f",
+      "location": "BEACH:sector:76",
+      "image_key": "64x64:1ea36aa6c962b3da1f2fb1cfb81a74ae623d03400e3827798201aa9c8efa51bd",
+      "raw_sha256": "86cb4ab0da77c47f45e89945e5f72f225a77b2472fa207118a91b449df2dfc4c",
+      "palette_sha256": "af5f8ec57d8beef68a5b526d5151060caa60f8b18372bd40272063e70129c317"
+    },
+    {
+      "key": "0000000078b39d3fc68076e3",
+      "location": "BEACH:sector:88",
+      "image_key": "32x32:3f441e47c77b1a540c30fcd90e49895c5dbc1f17a8c07debf0ccbebcaa450eba",
+      "raw_sha256": "393d446be6cd1585eab7772845f1b969c39197dc50e23ca3f3528ac1392f0307",
+      "palette_sha256": "49c366f6229b35defae8e68c5c4e6683ebaf83a74b592aa6fe6ead499dae4940"
+    },
+    {
+      "key": "000000004e12320045743c2f",
+      "location": "BEACH:sector:88",
+      "image_key": "64x64:fe2a7b6c0c88f4443959828fac191ea99257ea1571f2819c1bfd51d3cf32c7cb",
+      "raw_sha256": "61f5a02b8aea0795517d5b52db25bb693d5e9f940edcabe3e7054dde64392468",
+      "palette_sha256": "d5f527e005dfbfddc4736517ddddae41f3c983570ebb4f8f186b2b9551759804"
+    },
+    {
+      "key": "000000009e07957b0f408c15",
+      "location": "BEACH:sector:88",
+      "image_key": "64x64:f7ac3f1c65477f66d6a5f07a95168f96f41f66bb86c843c5cbed69327641af76",
+      "raw_sha256": "78d7d5c3fdb797dc624f250f39ccbd27af7fbe283fb9a4dbb4af5a94bf9b326b",
+      "palette_sha256": "d2927a53705dc5dee48c865068c6f6c1f3127f6b6d4f4c0f6c23e33348883177"
+    },
+    {
+      "key": "000000000374d1e2a48a2061",
+      "location": "BEACH:sector:91",
+      "image_key": "32x32:83bbb66f8d77f707e9fb456eedb3795f22dd7bc2cae7f80e8b05a6a098055c59",
+      "raw_sha256": "69d4f007aa5782762f8dabb1562bdcbb696c257c9aadf36cf930e111fb0d6e11",
+      "palette_sha256": "22b6a6ea71dd1c3cb61aa1a2d13207b69e015d73d524bb436dd9e4c1cc791dda"
+    },
+    {
+      "key": "00000000feaf308c3a7570ef",
+      "location": "BEACH:sector:91",
+      "image_key": "32x32:d52f6cf4a37e6cbd63e4c26fec0cae6c5e133721bd9c0a4e8e81aceb549d9873",
+      "raw_sha256": "1dd4d43a5f6c56215519cd9b6c8b0f557eecc83853e547f5fc7d81e3c11da77b",
+      "palette_sha256": "f0f5e757e005890489cab167753c9ee62461bc3db39b852b2425080c2904e55c"
+    },
+    {
+      "key": "0000000098c8fc96c4f4eae1",
+      "location": "BEACH:sector:94",
+      "image_key": "64x64:b736aedb2057110f6383b2a87fd9affd9c17a3ddaa7820d09ac4b73377f1fa69",
+      "raw_sha256": "f898e456478565b2ed412820e1173126064ed1f193107c1ffbbe137567e75b42",
+      "palette_sha256": "dc13807cd0250723d92808c502b1037faf4ca60873aea4782194059254e19179"
+    },
+    {
+      "key": "00000000f403d9e2554fefb9",
+      "location": "BEACH:sector:105",
+      "image_key": "64x64:efb822cb8c1ecfb3381feee159049d579b29fbc5dfd932b1f955a0c24847e5be",
+      "raw_sha256": "56a1beeb13998ee9ddc21ea4b0cde798fb5cb98877d11eea404ba6d9f837fd5a",
+      "palette_sha256": "53583d1a69b3af09d8cdff0aa93d966857c25564272a56e66bc8a3ef4f75a242"
+    },
+    {
+      "key": "0000000056e6a4a1c8f7a708",
+      "location": "BEACH:sector:105",
+      "image_key": "64x64:5162eb59479e206a5539be5abb9cfbd8be084ae5d3291d4d90d45b550864fa53",
+      "raw_sha256": "c6a1538c1536212f07a0e9158d0ba385c8fe9bd9961e9c5a1c7329fd4d663090",
+      "palette_sha256": "df0f83b73e0b774453c5f2a1cc8b05c39295211a234d804e8443c702b3027732"
+    },
+    {
+      "key": "00000000fc0049cdab5f06af",
+      "location": "BEACH:sector:105",
+      "image_key": "64x64:70f1bdf41ef2fd3c2b7ca82def7040fb271a46c6b15906967f3a6a87ce8731be",
+      "raw_sha256": "33aecd7f5a7a0572ee46aa4cc5484617384f89053748ab37b3046e3db982501d",
+      "palette_sha256": "d2ee0d3c275806aac422c6a6610a8665c543726241d9840240f3dcec9d9eff9a"
+    },
+    {
+      "key": "000000007a3b2e80f8cd43dc",
+      "location": "BEACH:sector:105",
+      "image_key": "64x64:6e02753b90fd8ff2abad851e9709a851212d34374183ee95031b83dc74e013f7",
+      "raw_sha256": "70630be872c45621b693a9f551ba575d45fa947a202df1d369dede2373d1b78a",
+      "palette_sha256": "4716632c5c3fe7ca416b22378be00cef3fa38baa7e37d3b2c7b3ab8885cd39f8"
+    },
+    {
+      "key": "0000000090e0f90c8bbb1757",
+      "location": "BEACH:sector:105",
+      "image_key": "64x64:2ddd2cdf7f05da40acd97d472b321a3f4e0ce7874ae3a18add01139c863c43a7",
+      "raw_sha256": "5066af6883cf088287baf7e6aedb569e34463f11084d4f7fb6fe963a6f83f691",
+      "palette_sha256": "d11ecdc37bee919d5848135a6ef1563e2fc0580d5218168c4415fc7109a0322e"
+    },
+    {
+      "key": "000000003e01c433c0dc9398",
+      "location": "BEACH:sector:109",
+      "image_key": "64x64:8a4f14ff5ac216b36ab32c4db84258fd77200fc0b3b23d0ead343566e6f9c4ac",
+      "raw_sha256": "d330af89ece29d430c08a89fba270a22b45104d7aa348206f4b80b82314542d1",
+      "palette_sha256": "888eccd3f4fbdf567e551c1942d1fdc0323b8a9ea6418a7a1a55462b61c26fb6"
+    },
+    {
+      "key": "0000000035816726227f9f5b",
+      "location": "BEACH:sector:110",
+      "image_key": "128x128:9fb0871b686cd2ced5fd8bfe5e4ea2c0f4d6537a22dd28cd953a308882b568af",
+      "raw_sha256": "51e8e0f371480b4552eac5f00cfea4faab3d4c9f5d5f8625406e9a7812ed83f1",
+      "palette_sha256": "430e4a5ad8a9ee68265591341b265c6787b4e34da82e295556444e715c43ce70"
+    },
+    {
+      "key": "000000009afcc9e054711230",
+      "location": "BEACH:sector:123",
+      "image_key": "64x64:bcecf8adafffb1e12f07d952a95481439a037aeb7a79e7753d013bfc27751ca4",
+      "raw_sha256": "0c380084b82094f0fbe6772a5ad669ee41c4eb2aba29cd12777d4ad62b1fc92d",
+      "palette_sha256": "e6850e594e2b84134dc32623679c668278aab3f1625d9a315e2e14883cd3f010"
+    },
+    {
+      "key": "00000000b6edc69449db25ca",
+      "location": "BEACH:sector:123",
+      "image_key": "64x64:422d9bafa050883d30e38e05260d47fd2892af9803a76dc6d857cc25abd32ef6",
+      "raw_sha256": "665ccf182ad173a274e7d3456ce67e8bb6d9aae0ed87645d63c674b80a643ef9",
+      "palette_sha256": "f9c62d0df32e2108009d27b7c76069de68a00cb7ef1547d40b6441db3e99774b"
+    },
+    {
+      "key": "00000000131f08dd380fb34f",
+      "location": "BEACH:sector:131",
+      "image_key": "64x64:1df1be4d4f04433e0bc3ba8b2a3e3f1bbf3afdf2503e375335baea44b82b5648",
+      "raw_sha256": "41b69309e74a15d233c62686091d9c9823f07bc2e682ed67a9d1ad3af077f299",
+      "palette_sha256": "d8503f70aacc82e863cdffa801027769d9822fe97151449c14ce4be65a7c4c43"
+    },
+    {
+      "key": "00000000a8ee96105f408caa",
+      "location": "BEACH:sector:146",
+      "image_key": "64x64:a17667a8810635d4b3c16777b3de2b15c8ce9505d8319fe4b4ecc5c2093f524f",
+      "raw_sha256": "158efe26905835a6c43ceead966e4f54f3c6324100a193d6e54a629b99eb0945",
+      "palette_sha256": "60bbdcc8bf987c06c1cda0b1ed587d14130e34f4a3f6f517d05ca4313b74c17f"
+    },
+    {
+      "key": "00000000a7e78a9388b7bd80",
+      "location": "BEACH:sector:161",
+      "image_key": "64x64:a1b217a10b3eba57b1c2d1ae15223c3e53001bebd6ce5309ec516e4db90ab29f",
+      "raw_sha256": "dbc9fba48ba4408dd6dce7fbea6f5515befb7de0509e4a64f950b2b2ebe46d1d",
+      "palette_sha256": "79e2616897226927f4d9a1e69bb864914da765711a2c9e393e955cecf22a1e20"
+    },
+    {
+      "key": "00000000a08a861161dfc885",
+      "location": "BEACH:sector:201",
+      "image_key": "64x64:0c8c12dd1ba7b0ca839416073f3c9ce0cd2e39596d01cbf9d93441d76eecdbdb",
+      "raw_sha256": "adde31cf294e3c3004eeb776112e321c07bb5505f1a495c6850ad3c5b125b82a",
+      "palette_sha256": "3e22771a6565f6754b11143d48e0181ade815b96ea18de0a7332d94edc77eafa"
+    },
+    {
+      "key": "000000000f1cd6f155732c43",
+      "location": "BEACH:sector:242",
+      "image_key": "64x64:d8c6b5176c100f3bc5646c4b1c946d5b8cb246ba3ca6033d93fe32ad73c8626e",
+      "raw_sha256": "45e1f51d705ad63c6c16668e6db91397e26623bed2ea8a3539924830e04ac7f5",
+      "palette_sha256": "e3623536756a6ea937cfc543045fe7ed4369bcc28f1d540c7ae28fbee9b5f11f"
+    },
+    {
+      "key": "00000000188d4b1769d86ece",
+      "location": "BEACH:sector:264",
+      "image_key": "64x64:45cb708412e961cc7172efcd1e1052f5f817e8fc1caf385405047a144ff37285",
+      "raw_sha256": "76eaa6e8b6e7c00ea3b1e60e818bd489b9cc794227e1538012468cf5600bc178",
+      "palette_sha256": "9cfbb564d3178159fdda0f7d4c4f5f97423ec27491e0fda24cb4e4754073cfa9"
+    },
+    {
+      "key": "000000009fc6b82b199fc47e",
+      "location": "BEACH:sector:264",
+      "image_key": "32x32:d7a502582df9e19d33c7162f428663c3211f9bf3913bdfde3ea75feb97ab7b01",
+      "raw_sha256": "92ba00681fbb2b94ca09d9eac1964be8babb6c3dc99017b83f2efe72127ad6e6",
+      "palette_sha256": "86220847553b70fc986a4682e295d0753638e6645e9c877719c1f3d971a5f176"
+    },
+    {
+      "key": "00000000fa1525b7b2043344",
+      "location": "BEACH:sector:277",
+      "image_key": "64x64:924e9f2af537426291db0e92ba64c1657413297b81b00c124fed445557d1fcea",
+      "raw_sha256": "0576b0ea0fa7e613ba96ac526c5fcab808004f20eece6309a5d797a584bead68",
+      "palette_sha256": "616023cd44d834a0ec57c91c1c16c59d77375949e090e9289d01abb6026a5dd4"
+    },
+    {
+      "key": "00000000c3c7fd1dfdc97257",
+      "location": "BEACH:sector:302",
+      "image_key": "64x64:4dfed65c0ff38b4edc1a04accc0cd3d2142958f8e6d0611dbff8b1b3a4992c9f",
+      "raw_sha256": "3d46d2193cfbd6f4802e75da06059629af548881438820e7691bb51b31a1a71e",
+      "palette_sha256": "865f2bde6ed114612b052643ef218e2b8c267d8d046897d42714256bdc25dab5"
+    },
+    {
+      "key": "00000000ea7cba6e160d39f5",
+      "location": "BEACH:sector:304",
+      "image_key": "64x64:40f82e0cff56bd675343e82cdf7f7376a9896344911d023dd27939842bcb3790",
+      "raw_sha256": "8f58d2d8eeb53c09bf21198987778601998aea6c37cb2bf50d8e813478d4c076",
+      "palette_sha256": "3e512e8719c944abb97038791ae95d844f14dcb2650f77230d97a4b069a767c1"
+    },
+    {
+      "key": "000000006b9cb7c8c1c3512c",
+      "location": "BEACH:sector:313",
+      "image_key": "64x64:760bca6812ba2c3d44ef3069504df8cd2ccc9715534bdd9205f322a574ed322b",
+      "raw_sha256": "a12cb49c05fb9bfe4765381e7ab9ce05fddd40c864c4dda9d90f7bf439ad18ca",
+      "palette_sha256": "11025e2ba457828bc055ed7f67c95f3390aa69e50009c979fec7cb072d34f954"
+    },
+    {
+      "key": "0000000010bafe304e5fd3eb",
+      "location": "BEACH:sector:321",
+      "image_key": "64x64:4b038345e837355a25c1c849d35cd93264542c62573515badf405d7f1fb4b9be",
+      "raw_sha256": "171dcf028beb3ed861925427f0619ef3c74c32c507f20ebc5e861e74eddae0db",
+      "palette_sha256": "fdcc2232af611e153b154c5d532d0c65de60639e3c59f2ab2e286047c6168e57"
+    },
+    {
+      "key": "00000000fd8692b703338922",
+      "location": "BEACH:sector:356",
+      "image_key": "64x64:7171c109c4e69708a6e012dc4f9bbe92bc073620b6b256e1fdc6f50ba08dbc67",
+      "raw_sha256": "418f2760c391130e5a4f5591d9ab72d5544ee6e9f3319593911f596b55c7d165",
+      "palette_sha256": "3f7464d2fe27bd3e079a55985173ca65bc05d66984b2d92858edb0f0427a6242"
+    },
+    {
+      "key": "00000000e0fb2a26e4aea04e",
+      "location": "BEACH:sector:356",
+      "image_key": "32x32:14f0887ef3fec01e506bb48e23a0274f6fbaa1377f2abaaffeaf6ea3a1887e45",
+      "raw_sha256": "598c9a5e40cada5b8ef8e7f8d29c8d07b897959ca590e727f35925edd51bfbee",
+      "palette_sha256": "a7724b99fae96911f4f687dde9222275610d2d121b5596bc8da96af985c66edf"
+    },
+    {
+      "key": "0000000036cc4032d4f1c534",
+      "location": "BEACH:sector:358",
+      "image_key": "32x32:1826697a15500cf15ea72f15e654d62f3c2c8270caa9bc648f2b38aa80678044",
+      "raw_sha256": "36c3444523ced3831858487529bdc650b5cffce445730f5a072ec248ca444ca8",
+      "palette_sha256": "bf2b53992b5612e0484355d14f3ba1ef56b11de81ed8210abbd81f2e4ae2051e"
+    },
+    {
+      "key": "000000006ecb080e580160a7",
+      "location": "BEACH:sector:376",
+      "image_key": "64x64:8f6385e20a9a4fa0e4e7a646e4387a5570b29c7a6568ef7566b35891cc035257",
+      "raw_sha256": "3afd2be18b0c81322e83be6c5cc758fc47fc192448e5f99a9978819c0ae274a3",
+      "palette_sha256": "c607f1afe87f61cbd3c9047160249a37f62f9252f0638bd3a58d1f366f41be07"
+    },
+    {
+      "key": "000000007af9be7de6c7fe6d",
+      "location": "BEACH:sector:397",
+      "image_key": "64x64:e11811e9519d46735d06abe03e45fc07c70f9526b660fc4bf9b5abfe2474bd05",
+      "raw_sha256": "219d1f681ce39e315879ff288ffb4c76824c60e7a19e34bf395e2114b13e25b4",
+      "palette_sha256": "d80c7aab29be756f8f4818bb80457aa44fcce62654b4a6db476b63f5937e5d8c"
+    },
+    {
+      "key": "000000003bf6b5c17b786b57",
+      "location": "BEACH:sector:458",
+      "image_key": "64x64:4ae83532ad0f4948fa919313c09796a9a0c7ae3bc6115891abc7b553829833c6",
+      "raw_sha256": "8ef74bb5d49b6f33a678a37fb0bf829fd87b5cddf23e50cad457f76dd54a8767",
+      "palette_sha256": "66677a718e96fe6db06204db8d9414fb66e44998bfc22ccaddcbd25b8d2ae4be"
+    },
+    {
+      "key": "0000000047f72f7eb4f94332",
+      "location": "BEACH:sector:461",
+      "image_key": "64x64:69319311e826fadbe41ebb8aa7f71b0fe12c217d68d6c94bf1fe9045a8aa8eab",
+      "raw_sha256": "506ba6258d1b4729dc52b4f79c03e0d36b69053a09f141e444d197526e581ae7",
+      "palette_sha256": "597e00bb39210ce4e64993b48a355feb8b233e0915231932820f73a2dda446a4"
+    },
+    {
+      "key": "00000000743d40fd14ec79f8",
+      "location": "BEACH:sector:461",
+      "image_key": "64x64:5feccb8d9aa5ed845c483788ad36f73660ea92c867a16af0e159ca267c9d301c",
+      "raw_sha256": "be85cc5a309e0dfcdd888bc0b7b72c721b466de0ee1ce066fae9eb759a0602c9",
+      "palette_sha256": "395787cbbe23e0ec7dce880e62dde6b99a5a48f12e23db620f2cff5e4805b6a7"
+    },
+    {
+      "key": "00000000866c8b31315ec024",
+      "location": "BEACH:sector:475",
+      "image_key": "64x64:0acbe8b85a191af03d9e1aba122d6ae7a0b869a4f4d70a5af73692aaa47ddf24",
+      "raw_sha256": "e9429c252fe8fbfe807fdf028a3c4a902e8bc91183b3cf10e216f07da0f98ce3",
+      "palette_sha256": "dbb71c0101cd6b32710158ea63e2d2d93e52b02c35c09bfcf57eb08e4d60ea54"
+    },
+    {
+      "key": "00000000e8f0ead3844f682c",
+      "location": "BEACH:sector:475",
+      "image_key": "128x128:f5aaad5193b93f8102f80ae024ec76620fde0bcd86fcfa896c8fb6cde3da1d3d",
+      "raw_sha256": "dfeb709269ef662edee9d5241833c7be2fa306aee9779725e4204b347fc35f2b",
+      "palette_sha256": "b518654f0b8de950498f39986f13a35dbd0f69616f24dd7ea8c5e0e804d7a99f"
+    },
+    {
+      "key": "0000000039a3cffa22155082",
+      "location": "BEACH:sector:476",
+      "image_key": "32x32:3bec932110fc813839d6e43585c426a69a20b8ff323b68d2bddce68eb50065fe",
+      "raw_sha256": "76b0479cfea609ae41c0079f2696241732d7a15705da943c88d461ff09ca0ea6",
+      "palette_sha256": "c1b8e7cf8daf66ce6caaac4d2ce0cc8bcd1734a6e2e66168a64fbd64f565807d"
+    },
+    {
+      "key": "00000000906c69e127c20fd9",
+      "location": "BEACH:sector:476",
+      "image_key": "64x64:595ff6b962e6308d88116c9c3861f9de3313f498bfa342546d224dc95df582eb",
+      "raw_sha256": "18569ea76fa78ed009ab00023e00d8c19d25bf77857d728539d172b7cf7f4fc5",
+      "palette_sha256": "4cb3456f1b1f20c55313d55fd26ff82dc5a9533452b9a65b8bf1b62ab6afd256"
+    },
+    {
+      "key": "00000000778819d8d5c302f2",
+      "location": "BEACH:sector:491",
+      "image_key": "32x32:332ce4e528a3574ecae771ad18226f9465f783f477001eae347ea7287506f4a9",
+      "raw_sha256": "2a007998165c6f53c0a2490afb8ea61e3062bbcc99cbc1ecd6a0ace14fdc7574",
+      "palette_sha256": "bb4d003ed4e814a833ec2ebb9baaf868395cbbc1184eff4411156355ec5d231d"
+    },
+    {
+      "key": "000000000b07bafd29572b6f",
+      "location": "BEACH:sector:491",
+      "image_key": "64x64:a1334c7e93bddfaab4de2b04599863da3c87c50136c9db226a11ccdae77b5213",
+      "raw_sha256": "7ea7f9e55c36c0de1324561b77c4f155a65f46f827911f4b6bd9bdf466835e0f",
+      "palette_sha256": "27e32fd4aaf95cba3c2a3b9f5c8fbff829d14e6567b79aa02b620c7428016239"
+    },
+    {
+      "key": "00000000d1cf39819e56f9f3",
+      "location": "BEACH:sector:521",
+      "image_key": "64x64:6bd0b8497495fcc3e9dcc2e811e60687bed7e6d87f8c6d4e2cbd7ed3dd6f3b8e",
+      "raw_sha256": "4b395c4aae60fdb82a264b33e0b8a4de62559630a2493f1f8cfe560d0ae1ccd8",
+      "palette_sha256": "fd4aac62e9bc5c214472f799f8c6c54b1274dc0eaf0110c55e7a2e472115fce7"
+    },
+    {
+      "key": "00000000b6e2d762ccae07cc",
+      "location": "BEACH:sector:521",
+      "image_key": "64x64:bb73d39817b372a336641e4fb73ebc51bf5131d167f552801fbed1f9e4c1071c",
+      "raw_sha256": "a48752a676bc22919b387f46bf83be78e5ef57fc9219420b43a4d1e8c80454de",
+      "palette_sha256": "800dae78afcf6202d1fa4dbe4921745e444e787bc82cb8c2747311cf5a1b5615"
+    },
+    {
+      "key": "000000009011c96c7b29dee1",
+      "location": "BEACH:sector:521",
+      "image_key": "64x64:7aecf6e1ef60808aaaabc250fc777cc8250803f7330094458d56c3926a7b2c44",
+      "raw_sha256": "6cf0983c5c0f40d521fadf2c9f64f5e0b0b5ee21448bd9fb5cd0d27978e5e24d",
+      "palette_sha256": "24bfcb0940f5f365369f8526fc0aecb922ebffaf928acaa4624a1fcbd83ce400"
+    },
+    {
+      "key": "0000000044f90f1d25b4dca7",
+      "location": "BEACH:sector:536",
+      "image_key": "32x32:e6a165729638e0e848123744b43efb150119a4ba8454d24f71822dab35aec551",
+      "raw_sha256": "99451b878551b27183a22a938e4132e8e70b1b8fd5d90a9ee075163f0270453b",
+      "palette_sha256": "5d6821dcdb58c1a42f986b11e53d99899150cda48eeada848973ec8742164573"
+    },
+    {
+      "key": "00000000e7e51c3b00042dc7",
+      "location": "BEACH:sector:538",
+      "image_key": "64x64:41c27a99880c1d249b398945ff73babe02ebf81814e66a46beeaae133c2d0c70",
+      "raw_sha256": "e88271b923c1e52cc601b1e12267b3d83d03d998b50aef226239217e66ed0e38",
+      "palette_sha256": "888c96986eec5c996abe28bce2445d62f67e5c448563380ddaa706400480ac6c"
+    },
+    {
+      "key": "00000000c2777511ec11e868",
+      "location": "BEACH:sector:625",
+      "image_key": "32x32:579d2cf7cf5a13f2349ed183c9fcaf12b6866999bdbea7a176b2e8bd04ee42f3",
+      "raw_sha256": "711930cd97695cf87eebc3d05a7f4a72a8a49b71ce9f6cd96a26d64250fd3607",
+      "palette_sha256": "30296eb44fc7b401903f1313eb5d1f6bf2566e6f0573312eec0236a649140dca"
+    },
+    {
+      "key": "000000007b78ba6180c9a812",
+      "location": "BEACH:sector:625",
+      "image_key": "64x64:03d0c550f9ed747cc4c0bb7c0a24d7daea168e32422f903d1fb078698b77e180",
+      "raw_sha256": "f7e35cf7d9972a95a877c6d266c9a3e13b3edb4cb134f3959f048dd00718fdde",
+      "palette_sha256": "6f2c844143ed7d797312a57b2ab14f9c9917a1595f06f11148aa336354b03432"
+    },
+    {
+      "key": "0000000046853e56e59dcb32",
+      "location": "BEACH:sector:625",
+      "image_key": "64x64:95c3cddd875c0de71875197e23c1429f3d4be290535b5d6cce128fd8347e1aa2",
+      "raw_sha256": "dccd1fc966054f73edbd57362f07defc7e5f1af4bfd010deda45b0361539e1bf",
+      "palette_sha256": "ed8070994c6ac6244766e76de2026e8f676a620047b9b6b7f24a8af0d080a92d"
+    },
+    {
+      "key": "000000008d8a30b3430da1d0",
+      "location": "BEACH:sector:625",
+      "image_key": "64x64:19c0634f8370ff0cf1fc6d42abbfb2345c6344421b348e008b192cd2d2861776",
+      "raw_sha256": "22e515dcbd03e260ba2a5aaeb01b16b90d3d06036d82d259f82be394b4613f2f",
+      "palette_sha256": "8845c4f082b781c39906a3caf8331ad92005af0da57411eea47d76c4cdc1e844"
+    },
+    {
+      "key": "00000000d6d063c24060aa46",
+      "location": "BEACH:sector:625",
+      "image_key": "64x64:2e4eccb728e04a611a5e108f856197370118288da9047a04ecf0b5372d128350",
+      "raw_sha256": "d320f269ae188bb81d766338dd604b099ecf3b53a24ec4724b650994c64c3ce4",
+      "palette_sha256": "5965da904ea0a0f878f2ce252ffc54311978e395bd5d388bba8f6c76d5fc0c81"
+    },
+    {
+      "key": "0000000067a6ce5c18a815b7",
+      "location": "BEACH:sector:625",
+      "image_key": "32x32:af80550809eb963f610b66945d950c4fed7f154301254628a9c10dd21d0ebd90",
+      "raw_sha256": "d25837f07db989f9102990efd19490bece81c88575650f4e93bbe36fd72f1870",
+      "palette_sha256": "d916c94e2060e32fe2cfd87a4ebd66e46bda20c7cf71f2bf08bb18414b7c8508"
+    },
+    {
+      "key": "00000000b0da038cdb9bde08",
+      "location": "BEACH:sector:625",
+      "image_key": "64x64:28fa5f8b09511aa153f9b98446fe4675c5582f5599256e8be7223abcc04233bb",
+      "raw_sha256": "7ee324c538645fdd64a7d2a613d68964aa80958b255fcba830e973380f6a646e",
+      "palette_sha256": "23a7c6aead445665e5c571872348b8855b5521d5998343b3c331e45990d41e29"
+    },
+    {
+      "key": "000000009aa9edf713dc6e45",
+      "location": "BEACH:sector:632",
+      "image_key": "64x64:5557f391407098f2f5ee8e7f0e2c14e49d67bc704f087d0e9a291322fda5d561",
+      "raw_sha256": "f3a70074ef685f5ef837f4b3fd56fc94d69081afb8c2e897f1745c928add77a0",
+      "palette_sha256": "7cfc4c4b9cc93febddcedf9d1ba43e7384804e9585462924ed0bd2ed2abff724"
+    },
+    {
+      "key": "000000006aca2e1bdc1a49d3",
+      "location": "BEACH:sector:641",
+      "image_key": "32x32:bb194c5ba1a57b11f8b4d3074495d7700369eab92cb706c1cc9f2180f68b27c0",
+      "raw_sha256": "be7bd4eea7fb8bf05aca212a4387b7667bff799794de3d47ce4c274e8948744e",
+      "palette_sha256": "52d075ed329659a255137f9ab8d1270e87a393b476fe2e843eb7aa0d68a9941d"
+    },
+    {
+      "key": "000000001379199491f52bc0",
+      "location": "BEACH:sector:641",
+      "image_key": "64x64:40e42f565bf7b2a73396298028032dcbff3245d22c7fb8f4bfa75710b84497e5",
+      "raw_sha256": "9aa35ae742318caefb6336a02429330d7c8dd2803328665d0dfd1f22943a07f2",
+      "palette_sha256": "2a71cfc3245a133720497dba851c5b498a0c7f2d560ce8046f6add5e77422c6d"
+    },
+    {
+      "key": "00000000d5d80f0ae7360ec6",
+      "location": "BEACH:sector:668",
+      "image_key": "64x64:be5ed8c6bba0d1fc9fb98dcad301f2af12789cf2b9f671281b4dc4e5e9c7b352",
+      "raw_sha256": "38871341ff13a23db31da215f427de635aff5f789c3d2a1c817631188bc1cff5",
+      "palette_sha256": "52843d2b38fb6099528e4fc40b3fa5986aa43c12a9be05ec04d1305b2260b97a"
+    },
+    {
+      "key": "00000000edf82e147be3ae08",
+      "location": "BEACH:area:7",
+      "image_key": "64x64:c73f3283036271f658057ec66cbf613cf342251e8fe8053e1f876a863c0f0037",
+      "raw_sha256": "e0983661958f3ed264c452f6f51e2200340d2c0040023289272005b28eab3204",
+      "palette_sha256": "79594c8503024364870f4ec97d932a3f5d60e4feba96107579ba5300053ba49b"
+    },
+    {
+      "key": "00000000f700c967ddc81d95",
+      "location": "BEACH:area:11",
+      "image_key": "64x64:0d356a47848d19e643bb39a222260a43a46c9acfda2c5311eafb0433e1aeed52",
+      "raw_sha256": "bdef76eb7089994573c14e00941352d47bad05063180261691d8663665d19f96",
+      "palette_sha256": "dd22050454b59f2aaade4f197e293bb358bafe99ee3a18036aac09f6abf12c46"
+    },
+    {
+      "key": "00000000399e20f9740b6b23",
+      "location": "BEACH:area:12",
+      "image_key": "64x64:20a777a64303097f01980ce2d37ea77bb215ce0237f9b0c5f19ef7ac91b779f5",
+      "raw_sha256": "0b516e68ce0abd4d3e1903c933f61370ec9c24f34243d34c476bc2f45ae34d8e",
+      "palette_sha256": "55270802afd7e457dfa1490aa6908dee1ccfc15d9c2e6df94cd504c2b69fa716"
+    },
+    {
+      "key": "00000000f2abce035baf90ee",
+      "location": "BEACH:area:12",
+      "image_key": "32x32:87861a23f6870aeaaa5360021fb9f037cc040e7ff9d12fd3dbb795ef7a868d69",
+      "raw_sha256": "f7cb01dfdacab5d6755481b9013f94c01e186562f4eb74735c3e35628a1e503f",
+      "palette_sha256": "18be82aa5bba89c9c24e23aa715a4a0ed53093da51ca0af7c0f199bc913fecca"
+    },
+    {
+      "key": "0000000098996f61bd57a6b9",
+      "location": "BEACH:area:14",
+      "image_key": "32x32:f5a8497da60672a40c788acf0ed2f96316da768bf56b418c38d37d11daf35b7f",
+      "raw_sha256": "4ab9f53d9809c5e7ff9d430fadca98c31d02155b0e8f824b16eb915aecb651a2",
+      "palette_sha256": "a91e969b115a9f282622f58eaa8bdcf2a1ca376240fb742d03a385456f7f091b"
+    },
+    {
+      "key": "00000000807ba6d30c336068",
+      "location": "BEACH:area:33",
+      "image_key": "64x128:fc46ae526e5de58134073da54a38791723698418c0f8f726ac80ac230166253a",
+      "raw_sha256": "af0d90447ee9913eaf94c6841683e9a4ea83045d1c27a22cb5f6eebd619adedf",
+      "palette_sha256": "efef259cc9180bea4e09832ff0b8add765e089e274653a3045444a6656c2b37b"
+    },
+    {
+      "key": "00000000738fd68e4ec4c917",
+      "location": "BEACH:area:58",
+      "image_key": "32x32:caecf28a05c13e3952550b735f02d343cdfb429dc181feec38be6d203822a572",
+      "raw_sha256": "4268fda5d794579e0888dd654bd8fdf302f1bdb7d05ebf577c13f890704ec345",
+      "palette_sha256": "cb9617f2c6905eec9afbb1f8cadca726554e9493f8d0e96455f6302987381b32"
+    },
+    {
+      "key": "00000000da2ddf7ad4f75ea3",
+      "location": "MAINLA:base",
+      "image_key": "64x64:efb6e897df9d4115c15955926e545ea48e00a4fe306010a45d4f7447fc47b3e6",
+      "raw_sha256": "c0ff90ec8cc2e5450b601c07253e11a5fa78d68376c457936810de03df6aa90d",
+      "palette_sha256": "d2b5b25d11941c49d6cf3f298cf0f69ff3fb77ccbecfcc2a66784b7a8afc2b52"
+    },
+    {
+      "key": "0000000079797032eeeae2fb",
+      "location": "MAINLA:base",
+      "image_key": "32x32:3307dda579a9dd65c80b1f412604450a54d41e347ee900b4b816c5961a91fb3e",
+      "raw_sha256": "d8802904b075c5e6b4a3f93231ecbaad8338272d1d4629ebb80581f463649587",
+      "palette_sha256": "16ba5fb4c57bc70e71980180a283f688b9f6c4878912a1554665299a05d57cef"
+    },
+    {
+      "key": "000000001e2d9222c705ca91",
+      "location": "MAINLA:base",
+      "image_key": "32x32:4ebee91339493f82df381cd7f81d941fc93bf9efb69b34e83bb0cb030e773e1e",
+      "raw_sha256": "f17c42f5149dfff9819ea427345d8e474457bf4b8492f66351ecc60b0cefad93",
+      "palette_sha256": "6a6c45bc6eff667af45d7d6402353b345d39f906c85c7266666754f5d96add97"
+    },
+    {
+      "key": "00000000464ac3d8187ed693",
+      "location": "MAINLA:base",
+      "image_key": "64x64:4002445b54ec4818064ac1289e063cdac6704d8bb5b4c0030e7d6651af1385f8",
+      "raw_sha256": "26764b51232fb74b4c375e2b5ce5cd033557002d6d3d19634c7275acaacc9a7b",
+      "palette_sha256": "b4e46fc1292e751b8cd292a7eb6de1e7be260cb591064af14a4d62c43c4252bf"
+    },
+    {
+      "key": "000000002953d8028c34eb97",
+      "location": "MAINLA:base",
+      "image_key": "64x64:235fb18c9dcf911ac4a24a5006792d3fe63ec8f0349f806dc10c846b8a65d006",
+      "raw_sha256": "58ab4f474a6212c31e0ee2aca010e92e5a6d9b60196d330923fad430c58b97df",
+      "palette_sha256": "8afe5dff5bb1c477ebd69c99c94a08e8b983282503bb6cd391add09813577287"
+    },
+    {
+      "key": "00000000736b8308f7314693",
+      "location": "MAINLA:base",
+      "image_key": "32x32:d88d8b8b93601df1e21160e2fd44ab54e8d2c62a7caec530e89c066443dff1b7",
+      "raw_sha256": "9431b463ac623a16df4384d67e7e7f4203bac712ae83dbccc9b71f180f9e4404",
+      "palette_sha256": "76a6fb0445458aac256f0f63a59f66a1b05fb11a0f4cd5f07914e2f568d53e04"
+    },
+    {
+      "key": "00000000bc504a27535b9c4f",
+      "location": "MAINLA:base",
+      "image_key": "64x64:dfd2bdc5b33c1afe67067f085d1e8a7450dea48bba93ac65504e3a19b7e593af",
+      "raw_sha256": "1d436dfb9a1831b052e9b252e5ee9e23bdd9f9109aa0e313893e752feeff3f6b",
+      "palette_sha256": "f5cf59273918f002b54bcd5c5c55ba9ed8fdcd148ac8355e964fd2b8e6280159"
+    },
+    {
+      "key": "00000000e1ce3ac602644a6e",
+      "location": "MAINLA:base",
+      "image_key": "32x32:62f1b522b27101fab1ace9c7893e703dc1cc3f2ec05e6110e36046182616c151",
+      "raw_sha256": "d5d0eb956a4a547d57cf9b65ac9280bc15db233d34248665fdeaf73ec9c7c1ce",
+      "palette_sha256": "62273236c7240f7a32e5c6646bc0492f8fb88d11fdca2a86d07f35ecafad5ac9"
+    },
+    {
+      "key": "0000000016a8022497517939",
+      "location": "MAINLA:base",
+      "image_key": "32x32:61d0340d3fc88eaa7318aa44070631f0f00462102024f1b643e28755958d11d3",
+      "raw_sha256": "e7000dfc213c02338b4c1f161d3a12adea7a2f6d2dc4dd4a343bc3c36a331fcb",
+      "palette_sha256": "8865c3225f51e133b2599dad3b0e3b78b9bee73f2e81b625320dd27480b206d8"
+    },
+    {
+      "key": "0000000099e4ceb49aaef261",
+      "location": "MAINLA:sector:30",
+      "image_key": "32x32:889f37fb970bcf1d4888a81dfbe7d9a10a9e443a6d4ede2517d28c2e533a82b7",
+      "raw_sha256": "a981b1db54a8857d3be88016fbde159a177d36176e010e13f88e598f9825edc3",
+      "palette_sha256": "f36e2d2bd0eb8525f5a704291785672daac4f2a719418330af4f648db20e4eee"
+    },
+    {
+      "key": "00000000f9bd3aac6489c5dd",
+      "location": "MAINLA:sector:30",
+      "image_key": "16x16:21eef8218ffc4ea44883f59b365941802ebe91408df73af37c11ca98bd5dfaa4",
+      "raw_sha256": "2974a95e6f7ac39aeaf580ca499223fb349dc3d057d8db68bfeabe66ccd6bbd8",
+      "palette_sha256": "06c1568a1733d4d6960c239d33af5c15ecafb86c66da45ee591bb683a421abb3"
+    },
+    {
+      "key": "00000000dd7f9c86d46451e0",
+      "location": "MAINLA:sector:31",
+      "image_key": "64x64:925fff5161f55435bc1624197261274df8ef7af89b1217afb9a75fb4a07d4a28",
+      "raw_sha256": "2b3bffa68fbb346019cbc33c37f5e7311ec24d342968234c8f39a42f8362cb91",
+      "palette_sha256": "9359c802ca98b7e844abb92742b655c793267d388481d8d6cd2f708c8c6c498c"
+    },
+    {
+      "key": "000000004aab4244423354a4",
+      "location": "MAINLA:sector:31",
+      "image_key": "64x64:445ab27542cb420217e6c03b341c75e79c8b20f5cbbd3e0c11d8c3bf1cbed5f6",
+      "raw_sha256": "ed0565edcd3d647e09d033682500a931d23eab977463e57eb933fd666e8dc5a3",
+      "palette_sha256": "b7d5ec128799a15fbc0fd7e62ae9d16cf10fe9b0a87e98c60db7dd4a2ec9745e"
+    },
+    {
+      "key": "00000000ab2ed0850d33531b",
+      "location": "MAINLA:sector:31",
+      "image_key": "64x64:7c4be805e20e430bc36e4960346e5f8c7dab748603e120eec4687fd6e35edd20",
+      "raw_sha256": "18011210066c81119c4c8a38783cd3b6aa72d24b1bdd630b169e9072ae7aab1e",
+      "palette_sha256": "27d6d03f0dbb4859ab1f03bd78371b99a2a09979678b624fbe8e4c65e603cba1"
+    },
+    {
+      "key": "00000000d10c6c6136ee92dd",
+      "location": "MAINLA:sector:35",
+      "image_key": "32x32:a1f72a57c5f48e3fabaded8731011e019265a480d0b2e5b55c93bd58862535fa",
+      "raw_sha256": "1fd7a5249e9a79025c9be3ffeaadf5461e6aeb0c31c623fe2104f2baa4796e2b",
+      "palette_sha256": "0806008cc8675904026219f4df03e46bcea0acbb3bbd2fd2c62fa418804b5ca0"
+    },
+    {
+      "key": "00000000a844384234227a5c",
+      "location": "MAINLA:sector:58",
+      "image_key": "64x64:bd0cc052365df324b104dc6f3a14bbe0bd2fc616b7ba63254da38d8a1f0f4f55",
+      "raw_sha256": "0571356ea7f3112778228f16c7dfee4a54ad15e5712d36cb65eb600739dbc176",
+      "palette_sha256": "cf94d982352900ad52c2100d1e9ee08738f4aa3daa404125735c973f2b365c7d"
+    },
+    {
+      "key": "0000000031ebdd0375c1fc22",
+      "location": "MAINLA:sector:59",
+      "image_key": "64x64:9664fd8eeafaafdb0273bd2b883b1c7827316453703fe41c2483eefa8e812eba",
+      "raw_sha256": "abb7db1137fbdaf110e3f506695093d8b58118b9b4bbf3ea250f78acb63e7ce8",
+      "palette_sha256": "572f930b56435a439c4f49319203780d9c609af10fd687a5c76ce3a0c34501dd"
+    },
+    {
+      "key": "00000000c3e734b8cec0ceac",
+      "location": "MAINLA:sector:59",
+      "image_key": "64x64:d8a39948b00ae57b83446fcd6e9aecc0da6507f6c240ba7dfebde1a90c779534",
+      "raw_sha256": "8f93dc85af9b46a5710bae962af7b2191064b7918b2e29cb662fcf8ea7f57550",
+      "palette_sha256": "9d316c4da071b66f1fc7e0fa4b9a1cb7e2fb9f00fcd85cdb5e36060ec38ade82"
+    },
+    {
+      "key": "00000000561831da7e8ab00f",
+      "location": "MAINLA:sector:59",
+      "image_key": "64x64:a0d8c8731a9823043694a0df782abee6e8d63eccbddbc101f35becb23ce409e8",
+      "raw_sha256": "4295fa0ac38eda9164a51d1b3beae89174b19bc056dda50ba5449c82df3ddecd",
+      "palette_sha256": "bf208b583acaa1edb198875b7661c88387b478772b7d39f01f682e7f8a57e7b2"
+    },
+    {
+      "key": "000000003916faaf34e13d48",
+      "location": "MAINLA:sector:59",
+      "image_key": "32x32:d54792633e548f06c1fff35470edbeb2c7d7ec935c2225749b4fe27266cfac53",
+      "raw_sha256": "eb86b0e668243b8cc57a1eaebc4ff43e0d27927badbbe3ce514b7034c72bbf5b",
+      "palette_sha256": "481173edcc0feafad47225a733b3fe3e692aa856bd5114bf500e5ffa830369f6"
+    },
+    {
+      "key": "000000002be3864327335cdc",
+      "location": "MAINLA:sector:60",
+      "image_key": "64x64:0b2e88406b38823de316a2b7c5cff60cc2847a18ff0ac01f15fa46b185cdc517",
+      "raw_sha256": "27b7389cafab744b49da80a73c1ed45ce0f43ce424b8c2de1f189ca7c3b88d5e",
+      "palette_sha256": "decffee5f28d823c3746e19278fc2f9bdf4d43859dbe26c927b43775ad5f8fdf"
+    },
+    {
+      "key": "000000007f9d97a7d515da35",
+      "location": "MAINLA:sector:60",
+      "image_key": "32x32:344ab76a422bc323168a83beeb57cc9408f3b1d3d2015ac8be0132363fb1be51",
+      "raw_sha256": "643f316f53efb5b0a3145e41e593e65dbd3b565aca1f1a63a34329362807ab52",
+      "palette_sha256": "cc3306ccdf095c45f6085f4287fff41bcd33e934ed84cb96027c8c25269a93ec"
+    },
+    {
+      "key": "00000000aa4be7dcd4c3eb91",
+      "location": "MAINLA:sector:62",
+      "image_key": "64x64:c47533b952bb22df363b7f6ed366543e7c8024b5c2f1ad5d571f7c5ca01ce8d7",
+      "raw_sha256": "97d6d53452c49c9969fa811d8ab0ff9a9836375b061f96a61328e185b04b3301",
+      "palette_sha256": "09a75f78b2f17212479e40a6985dac3c6685f75fd5fd984a28d74750a1acdc4b"
+    },
+    {
+      "key": "0000000075ac1ad2ec92a356",
+      "location": "MAINLA:sector:62",
+      "image_key": "64x64:56dc833dbb5a1f0b8a250bf85f4484a438bd08c2c45ee8f49da6d9ae45456284",
+      "raw_sha256": "88ff6500c1020e52877919b3894f943545654f5a4ba7d1780fdd0092deb85cc4",
+      "palette_sha256": "7dce68491676c70d62090fee1a7f4562e6d3f62cf8c4d08c3aead91fc720f2b1"
+    },
+    {
+      "key": "00000000e57eb2230cc5f8e1",
+      "location": "MAINLA:sector:62",
+      "image_key": "64x64:6d3d44f935adcb831736b983f3ce3b0405db538c1de2763393739607bb967222",
+      "raw_sha256": "08351d04a70e439f6b4116d06562774edf9b19895d7a7a753003ba83977590b2",
+      "palette_sha256": "d8bc592d73a297c1aa48e7ed548dde7db46746cfc9af9b5cf806d882230e746f"
+    },
+    {
+      "key": "000000000b54cddabc8af932",
+      "location": "MAINLA:sector:62",
+      "image_key": "64x64:fabab5406585a89a89192e67ac781e1df6a0d1d6a3342790aa65abc50bb68248",
+      "raw_sha256": "ae1900c48a836c0dc850e9e4d8c62fc1af5f30ded24bc22ceb39bd3fdca4c957",
+      "palette_sha256": "34ae770d9c6062bf77cf74cc0dde3abd85a7dad03226b773ad00bb26058f34ac"
+    },
+    {
+      "key": "00000000afa378357c36454a",
+      "location": "MAINLA:sector:62",
+      "image_key": "64x64:fff54f21e1524cc640f682c6665790a39bfc0f620bc8414729a443e1955cd219",
+      "raw_sha256": "752da9e3fdd81d7e4049294d266d9e954c82e4089fe1ee868cde049bc3a58cd1",
+      "palette_sha256": "48aae1ab1b27a5f4b5680681504ac90555c7f4dc5a29ca4ee1b8f1d8400ee50e"
+    },
+    {
+      "key": "0000000079a48a9a25128018",
+      "location": "MAINLA:sector:63",
+      "image_key": "32x32:50ff74514b917a7fc3b22becf4bac6a585dc32d9e8308cefa3d0f523026b8bb1",
+      "raw_sha256": "a1c310f154f4aed1b2f2c51a06e52ff0dca96c08f1f8639612d095c8ae864763",
+      "palette_sha256": "a3c45b5700d460e8caf4dd7cc39dec43901524320250ea054429fa06d4942b18"
+    },
+    {
+      "key": "000000008635a6b776fc8f94",
+      "location": "MAINLA:sector:74",
+      "image_key": "32x32:250b928dafae9e7c2485e7a5642090f94ac55096a1774fa07f94233f3409bdd9",
+      "raw_sha256": "4d025783deae374c5a13bb0e0f013a911c767b74064e629882567790331be8d6",
+      "palette_sha256": "51818448941c82a83e84c03514e2f9116b16482ede226e55789fd81596d6e897"
+    },
+    {
+      "key": "000000001e2daa17a5b5fbee",
+      "location": "MAINLA:sector:74",
+      "image_key": "32x32:cbd4f4e9ec43bf0aab288dc997fc40011c67e783fe675411d587c70f77d4c02c",
+      "raw_sha256": "0200e4a85fa9a946a56f653d45340795f0cdbfcbaa1954b62fdaf31f381248e1",
+      "palette_sha256": "6591153684d3b4f578458ee4fda3e173a867cebcf8e4b69d3baed12dfc3abc5d"
+    },
+    {
+      "key": "000000009c58bd9d9fe6ac93",
+      "location": "MAINLA:sector:74",
+      "image_key": "32x32:98ee965d6821ec9e0fb923db5cfa5ee28d3c1be97203ac72666fe1a420ebce38",
+      "raw_sha256": "f7e2393586ac8a30b4c61f9357c8040c9c751fae0cbbbc3c6c8ce01c1da01447",
+      "palette_sha256": "272280ff83a396d1596642a95a51e7e777776f55fa1b75f1b4705e9f92c67b30"
+    },
+    {
+      "key": "0000000000e6851fc36a4ffd",
+      "location": "MAINLA:sector:86",
+      "image_key": "64x64:8b037bb0e988ecb7a926bf5ea4dde6d8e101acccd18060b28c313b2dda559d08",
+      "raw_sha256": "5dd96e851df4554aed1489abbe913d48b48f6f0d414e718ed20b25d2b207782e",
+      "palette_sha256": "ff3b0db6ffe99b89ccc175937d3e338533e50b8fdbb3bd0e2ebae10fe14dcc33"
+    },
+    {
+      "key": "000000006f0d19059a553ca0",
+      "location": "MAINLA:sector:90",
+      "image_key": "32x32:1010192b833e61026a901bef1c58e7cd6d654d6f30eb59d4b4da929f8b0ad0a2",
+      "raw_sha256": "0af4043ac76368f6e5885d08bc1ff87cbaeaebf90656fdf1b6a8a5448c968f6c",
+      "palette_sha256": "d8b1c5b617716a29d2dea03e15a9e3cc7734f93ded9166d6295d3a4bdd15bafb"
+    },
+    {
+      "key": "00000000f780bc0a48a80389",
+      "location": "MAINLA:sector:90",
+      "image_key": "64x64:b0a6f709826f4d17f0bf733f85e99578b7f432f5181ae849d7c8cfb9d607afd0",
+      "raw_sha256": "2cfa3c12369edd2896e1b45a483c013a56ff8dc60a3dbbefc03a0b3371d60364",
+      "palette_sha256": "41d26f8919e3950979ddce93a42ff76b4e8efe4341dd87283c2796b6a8ca2fef"
+    },
+    {
+      "key": "00000000c052877883e6c6b4",
+      "location": "MAINLA:sector:104",
+      "image_key": "64x64:89dbe675d50fa3a16271ee6cd044745f75d9182551fc1c25d0a62eb1ec10ff4e",
+      "raw_sha256": "cca4f4884c37456b7ab0780b3ffbd6449c17206dcf8e82e1c0ba2b44f9f65df4",
+      "palette_sha256": "9d49ab2a512cbde303626675da7effdce034523274139647f09faec9564c0416"
+    },
+    {
+      "key": "00000000a7cac66ff5932a5f",
+      "location": "MAINLA:sector:104",
+      "image_key": "32x32:c432e92410ef4d765d3e4d28b5213524f6dda2ae4879f18df949686aa25be132",
+      "raw_sha256": "477943a27baf24b8213ed03138a43591e5230a48b4d90e5acc6e62dd3cfecd59",
+      "palette_sha256": "9ee179575cfad16340e8bf770b573e3340fb0ca7a2675135ece685f0c06fadd9"
+    },
+    {
+      "key": "00000000ca540ecfb33c334d",
+      "location": "MAINLA:sector:104",
+      "image_key": "64x64:0a2f060c3f1061bec7b0842e865d66d2e9ac5de821ad89787ec6665e06d5c597",
+      "raw_sha256": "b4c9d5600075780de45ffb68d8b8ce0c20b64fc97cc4d7d79fef9186a68efc57",
+      "palette_sha256": "ce1a5bdafa861267f2e314f35c413ba682aff1b6f438a18ff21d5ff3816fe1a9"
+    },
+    {
+      "key": "00000000db6e997b56b4b326",
+      "location": "MAINLA:sector:107",
+      "image_key": "64x64:cd5e4becc7206092f5304fd8b7cc0ffd21ef136066f36f3df6fc2a9047b4dda2",
+      "raw_sha256": "f48b9979e04cce58251a593d751ccfe9f71b7f2b308b5de547cf0b27344db02f",
+      "palette_sha256": "a0223cf41dc0a551d8523fc96ab6de776233e41fcac19327660b1aa72d37ed30"
+    },
+    {
+      "key": "000000002fae024f1a130c7c",
+      "location": "MAINLA:sector:114",
+      "image_key": "64x64:5a860a03e81702ae4c6466b02c6485d5e3453f59ac2e3fee756f05bdce4d6285",
+      "raw_sha256": "c9cf30e70c813788084667807a30e9d8b4d82a05346ed728fc9b04dd2886f8ee",
+      "palette_sha256": "ad9934b3923b46297bafc0b2a7bcd9c99a7127166af271b295a38ceec96924b0"
+    },
+    {
+      "key": "00000000cbe84ca7e1c74eb5",
+      "location": "MAINLA:sector:114",
+      "image_key": "32x32:fc7ff989f2c50003294e311fcf20c41e91d4a93a9959a61a9be74b08470e261f",
+      "raw_sha256": "0f0f1ac1ceabe2a2e669b32a5099ff7e3568852987b61b195f91a6425b37f132",
+      "palette_sha256": "e622dea9614f426d13f38ab9bfbc53949ebfaa418324bc2269847a5f40410361"
+    },
+    {
+      "key": "000000003d26c46414268aee",
+      "location": "MAINLA:sector:114",
+      "image_key": "32x32:5b43437ead8345d898492f160a90b92e755b0e1457de7437e46a2862c9cecc0e",
+      "raw_sha256": "71026fecaf69f41f4b7b9eee42c7613e65b22dc2bb99e56dfdfba11ba497aa82",
+      "palette_sha256": "8c90bb33220762ca6e76e0890408794d8aa44be7ccf1ef5ce610ea9e832c8dcc"
+    },
+    {
+      "key": "000000009a3240d185bc2ee2",
+      "location": "MAINLA:sector:114",
+      "image_key": "32x32:6c42a54fb79259ae8ca9eda0fb11be55f9f46a9f2e48b21612fbda091645643a",
+      "raw_sha256": "944580dcbb9319478465d658637192bf8d39865ca7a96cd48cc69d159e59fa4d",
+      "palette_sha256": "6f9776225700fc8e00e9aa6d826a8bee49b043a0685694bc32a2f3de4601c549"
+    },
+    {
+      "key": "00000000b6b5da458b46778f",
+      "location": "MAINLA:sector:115",
+      "image_key": "64x64:a6a8f34cf5cbfc1b211efbf2f651ae27082e651bd919ee020aeef82c25d176ce",
+      "raw_sha256": "61dda0fe2e374ec54cdd4361cc30e7a40832b880902af8268d46f3b3bc4af6f8",
+      "palette_sha256": "c784704804c0e6b3e51c28e8f7258458d06f4dfa879cbdd871e288cc9e35a035"
+    },
+    {
+      "key": "0000000081220a08c3d53830",
+      "location": "MAINLA:sector:115",
+      "image_key": "64x64:f89b04d05653ddb6742402d9e0a13b513482115fa9c7960a7e1e68342dc063b1",
+      "raw_sha256": "837a555c5866e156262fff481acb3089d7c22583e83baab6eed93008c82789b2",
+      "palette_sha256": "ac331923004b999bbfea75787a484e715069509570cddef3f2a708b84da19ec8"
+    },
+    {
+      "key": "00000000dad9b3fab7ed59fe",
+      "location": "MAINLA:sector:120",
+      "image_key": "32x32:6b41de63764513eb9ad731e3deda37e4c556751ae513e0b958c869df844c5d25",
+      "raw_sha256": "0fb2e18ddba0a08aa06215d5b7f6734bfadd9b0316549a5e5f09c0b0e915f2ca",
+      "palette_sha256": "c7d3efd343634b40b7949e8afb38b34a7756a5749b64158834f92e6a0dfef389"
+    },
+    {
+      "key": "000000005604e44eb6cae598",
+      "location": "MAINLA:sector:120",
+      "image_key": "32x32:028bda3413330603d6da119f07033dbdc751113998839ad1829351acc09ec57d",
+      "raw_sha256": "c77c88c615a05ea8842b6266a264f2641276ab4d686d67fb3195db586afbf542",
+      "palette_sha256": "8faea84d16a9cb72c52b81f8fcac5e7fe2551a9d46dddaccbb24b67d8e697f15"
+    },
+    {
+      "key": "00000000a8bc3b3097512125",
+      "location": "MAINLA:sector:129",
+      "image_key": "64x64:1bc98509aca8fa22d0a2ada5764e592c971bfc0b0e20f6ab52f4f4c27b556203",
+      "raw_sha256": "f1b070e4c59ba17f9832922268d957ccf9ea2da2b17a5bffc05a0dd740b87549",
+      "palette_sha256": "a62a5347962211b61d5ee190c0e6273026436fe94649288849019f1be87c44a7"
+    },
+    {
+      "key": "00000000b775485b167d839a",
+      "location": "MAINLA:sector:130",
+      "image_key": "32x32:af6108962c01c02fb7a250a9096e46cdf57ffe3413dbc0ca8a1198bf8e88857a",
+      "raw_sha256": "ebda7507fc76fb6891ba615a21a91253c4093ff3d70b2d8d1e3c870576450668",
+      "palette_sha256": "bb2dcaa4126c7dc6e985124a1e493e2b0e5babedcf71c8feba78d140094ee1a4"
+    },
+    {
+      "key": "00000000e513a844811cc41b",
+      "location": "MAINLA:sector:133",
+      "image_key": "64x64:b1f5920df2581cb4ef51f7f15ad48210e5d0053de5338ecdd69468c3e8d04f7c",
+      "raw_sha256": "374c31fa20b719905efe9efae9a0df0be2fae1d25d82890648caa3d3989283b1",
+      "palette_sha256": "37ac1e73541aadcac943dddcd631e66bddaffd7b178ec89b6310533939829dba"
+    },
+    {
+      "key": "0000000051d9c3502ba7c6e4",
+      "location": "MAINLA:sector:133",
+      "image_key": "16x16:1fee93271452f34ea0e4d2bf8f6aae59e9f34d711fc7db01a4f330009992be19",
+      "raw_sha256": "55f9784b078e35d3e84af59bddc9459f0f94ec239314c37073fcd10ed7b826b7",
+      "palette_sha256": "e8554694a988059b755a6d34e5497cd97967be636356c9e47442133de4e8f635"
+    },
+    {
+      "key": "0000000014e6f6c45554131a",
+      "location": "MAINLA:sector:134",
+      "image_key": "128x128:dc66613da5596570538875c26899f9328290e0f255ce41a4b91cdb7a7300bc66",
+      "raw_sha256": "66a8b9d0ab62afbfc42100d950b9664cb373472f2320b2396556c13e0907d696",
+      "palette_sha256": "ce27fb4c7ffb037d1c19607c317839721ec0d16718cb4d5f9258e43833f7996a"
+    },
+    {
+      "key": "00000000fa105fd379f7178f",
+      "location": "MAINLA:sector:148",
+      "image_key": "64x64:b2452cf0e9d37a6e30956677165bc5a334041d17989351b151df64ecfca1a317",
+      "raw_sha256": "18def41b73651d57ff5210781cef20b84a11d43c40f782ebe22ff033cc4a970b",
+      "palette_sha256": "02d71e4568f0b016f0939dbfe3e0226990417af6d4b46a727202b234b0514136"
+    },
+    {
+      "key": "00000000a2386ccc6260842a",
+      "location": "MAINLA:sector:149",
+      "image_key": "64x64:2e683a2c50cc4b47f50205293416e6df09e1b3d0f06f7b0b3ce9147de196b243",
+      "raw_sha256": "022a72962ba1113fa988a2f03d33f040e9ecdf14ceb0ee1419b78d4d4d5be8f6",
+      "palette_sha256": "78e46a982da3484309cde9047549a0439514011b2062bb5dd4a25afe08909e19"
+    },
+    {
+      "key": "00000000c79a45fdf3a1433c",
+      "location": "MAINLA:sector:162",
+      "image_key": "64x64:37c9359c258e8d77d37bf82dfd5101a7a903eff7103ab8edabddcc98b0805f28",
+      "raw_sha256": "85e059e773dfffebde506d8f99adfb37df4880796d5a791e1fae704867c30efb",
+      "palette_sha256": "18e59bcdcbecbed77ad565ac954b014e9fe4b385952d2fc347c5b27baa1ff7fe"
+    },
+    {
+      "key": "00000000bea43053907bf589",
+      "location": "MAINLA:sector:162",
+      "image_key": "64x64:c6ed4c0ee95c96d5ffb63c20041361e98dcbc2c725efd0433684cd8a0f795e2c",
+      "raw_sha256": "e0e44cf0c724b481cddaaebfc9dc66b0db3aa0555b5b72164dcf18eafb8d97f4",
+      "palette_sha256": "e6d0c4106305e63307f68e387a528b71cecc288a3dbc0b1caf82dabed26ee4b6"
+    },
+    {
+      "key": "00000000fd39558708a6d3a1",
+      "location": "MAINLA:sector:162",
+      "image_key": "64x64:270e196085e01e2aa0c91f146e2eba08be7e6fbdb2e3f1f9c6bf1608d6bdebb2",
+      "raw_sha256": "967e41f557c20bc568b510911b6846284de43007b3b9720d1a499ef4fef59ec2",
+      "palette_sha256": "0a3776f3ec2a1ab399f054468ac59848dd868f40b4a53d916c791907784193ef"
+    },
+    {
+      "key": "000000006db2c2c9ca29ea6a",
+      "location": "MAINLA:sector:162",
+      "image_key": "32x32:866ba3827ba0e50304f00e7cd8b9445761dff48eda82b1c2f7f000550780660e",
+      "raw_sha256": "e7da62b6b75abea6876cf899427d831d074336113724c4c27e967eb6a7d336f9",
+      "palette_sha256": "47cc828573d86a8f162ac0a1cb1a67a41802d95989efc5b4fae059b31773e959"
+    },
+    {
+      "key": "00000000a38fd43f8e46f0e2",
+      "location": "MAINLA:sector:162",
+      "image_key": "32x32:80837d3b1f6a965dde57f45ee1bb8eb2816b720dac4035062aaa6fb2ba7c4a9f",
+      "raw_sha256": "b0763958722feeaf1f82ba56b45b6e66c6ce78bc0a722dc3a9f337988dc90a63",
+      "palette_sha256": "5318ae88aa45a57b917097984ab975b65f73a2c0a560d3db8b9e4024266b5934"
+    },
+    {
+      "key": "000000001f2c817586e1817f",
+      "location": "MAINLA:sector:177",
+      "image_key": "32x32:760ed0c4d7e09a66568709b9bac9902def37012e45853856fa47cb4657395daf",
+      "raw_sha256": "eac36fc8eb8c0b3fb2678caf9295a39757208ad6f1b13c3bf0eee55e4ab0f06c",
+      "palette_sha256": "353c3be656f3bda9e68f314397f2ec04a0ec8ad7412a240416cc43ccea056217"
+    },
+    {
+      "key": "00000000e64fe0edf1371713",
+      "location": "MAINLA:sector:197",
+      "image_key": "64x64:d5cdc8303040de98f02cd37d2d8d135e570128fbdb464e66cf9a4e8e97c130a6",
+      "raw_sha256": "dfe9a3fdfdbbc3c2d9c3758e5d927e8cfca0bd7d3b32a428a0cc8cf909ae4076",
+      "palette_sha256": "dfa2455fe1d8e30b5a8243967fb5525cf795ba7238d6e3c73a45ad925bab21b3"
+    },
+    {
+      "key": "000000009a4e858760732ddf",
+      "location": "MAINLA:sector:202",
+      "image_key": "64x64:a68d1d753543e45fb3c33d4d25029a0c4e53283aec1d3f1d1f4a35968c3d4b12",
+      "raw_sha256": "40e79f52e82809c54f3b46fa9b93a039a74c8fb81de5c85e393d26e9287b4f16",
+      "palette_sha256": "b95214abbbd5c0e40fdbcae1cd250e26ee5b0f2618abc0306873b5fb1b8c3cbc"
+    },
+    {
+      "key": "000000002ec0b2ecfa18152a",
+      "location": "MAINLA:sector:602",
+      "image_key": "64x64:c1bcc52511370b5d3e4a52db9cc1654e95ae7e060f89c86d1aac14f94055f0da",
+      "raw_sha256": "8d7e04534e4f248aaabf7732638597f395710dfd88c2c0b4e7191f7ce01835c7",
+      "palette_sha256": "cd633567cfdc93e48f16f1b96ea17cd17d66bd09ff1456a105ff08fb224b254d"
+    },
+    {
+      "key": "0000000012c0c9fcfe843d29",
+      "location": "MAINLA:sector:1541",
+      "image_key": "64x64:088d3b131775c1805b19dbbb73518aa18961a95527d4e5c9326e58cf8ea90642",
+      "raw_sha256": "e19c521ecafd254b5912c973f95fae70b46cc0fe7c044814f11a10d8ff4e30bf",
+      "palette_sha256": "4c0a88b26f3885c4f6c2941d27e683b1ec40aa402c4a659aa952c4978003e751"
+    },
+    {
+      "key": "00000000eb8ed6466e6cffde",
+      "location": "MAINLA:area:14",
+      "image_key": "32x32:458638616934504b08c93f0e95bcc5012159729fe331369b475833e12e5ffee6",
+      "raw_sha256": "fcc13f2c49545c0e0e117278680fe57cfcffa53c08f7942ae954b0baa92e4691",
+      "palette_sha256": "74f6e2adf4556ea60449a849dbfb098ab33357637ff8a9ead2a384c9fc5d93b1"
+    },
+    {
+      "key": "000000005c319a2904404b93",
+      "location": "MAINLA:area:14",
+      "image_key": "64x64:5490210cf4a31611578387a0c9464600d92454690ef6fc43ebb9ae182d1a5285",
+      "raw_sha256": "da95abd67ee49148a49fda84d8bd7ec1a56f2efad21e8a6b7f37989548f0a42f",
+      "palette_sha256": "dc76fbb32b470bb027f6f0d2fe2c22d6f1d88e9b94457a921dd05228c5dd6757"
+    },
+    {
+      "key": "00000000f185537763faec4f",
+      "location": "MAINLA:area:20",
+      "image_key": "64x64:80da029a2a47114df3c5fad993bbb62e31017387b40ab5dc785ec8423c93000d",
+      "raw_sha256": "c203b7ae52d3e66006f7ad4e37afcd4866efd88532502f2bb85618a3e62da83c",
+      "palette_sha256": "2aa26f640da221f230967c114d8c901b401b9eadb6cb6d2ce678dc842da3b279"
+    },
+    {
+      "key": "000000002aae66edf6f37611",
+      "location": "MALL:base",
+      "image_key": "128x128:e4536cca72afc7f45bac49d4b2a55cb0ce4698612129200f9d30f04382c54dbe",
+      "raw_sha256": "d235ef8d2a87ec09928ea1e447b495608e1292bfb24d860ec297cf4e49256425",
+      "palette_sha256": "f7ad586b1dc3afab4ba0cc00ae781bbf6d2230b11a0ffcb0330c69f5e6198883"
+    },
+    {
+      "key": "00000000d9a76b7b5ebbca2a",
+      "location": "MALL:base",
+      "image_key": "128x128:ee13baef74b4913f8b2db91fb2d38ba2db5dfe96c500d3ce1bd472e86414f509",
+      "raw_sha256": "9bcf7ba905bc8dd281d26d310cf1b4471743d249b695cebf84386288e3401c3b",
+      "palette_sha256": "cab5c11c5c0cdd3df50e4227b520450d4c77b9f3b92d94fcc0ba842e06ea4285"
+    },
+    {
+      "key": "000000007476a92dfb4c554c",
+      "location": "GTA3PSP.IMG:14012416",
+      "image_key": "32x32:17d26dbf46eb5086c3c63a76838c35cb43759e6f479d8ee36226a4ebd1a38c7d",
+      "raw_sha256": "f1be14a476ddc806df02e243890924ff990673e8156419ad3a95ea93654319b1",
+      "palette_sha256": "93425564bca4aa9c099dca62b40d6e6a6c5a4d2994a0611f1549744a0896037a"
+    },
+    {
+      "key": "00000000fe69ecd6163f1d69",
+      "location": "GTA3PSP.IMG:14522368",
+      "image_key": "32x32:01ab3fc8ac903309fabc2967a20de98e7a0a303c0fbdc040d9e9e4991112928c",
+      "raw_sha256": "02cecd6b6ec64cbddc31a27e7ebfdb0037b78e66c7aab3487881f8543b1c0e5c",
+      "palette_sha256": "8a727f62e4cbb15a96bd5910e50c1c4b7b72a630fd5cc097fbeb6d6752de8000"
+    },
+    {
+      "key": "0000000057e3225f099d54cc",
+      "location": "GTA3PSP.IMG:18784256",
+      "image_key": "128x128:ec4d62fa66ed99d431d02e5d0bf7c988056253bacbc490f4da5f504aa7786146",
+      "raw_sha256": "2127205a3de41001247d903a256613d08cb073899f3feed996f33753d214bfac",
+      "palette_sha256": "2e2066c694605df0cb552a6411732e5141ca083ca825fabcbf8ae5cf7341daa0"
+    },
+    {
+      "key": "000000000620993835fd0c30",
+      "location": "GTA3PSP.IMG:18784256",
+      "image_key": "128x128:de2b7614c6a171f9e2b054e6bcca0b1c665bc444a0cc3ffdef62255256cd05a8",
+      "raw_sha256": "d7657d4ffab43aa53280fab297f0fcf826715a5f52371a7a20716850ddb50003",
+      "palette_sha256": "c053892903b41c7ba5c870ab85c8914666bf037e0662fa1fd9945fd822be8a9d"
+    },
+    {
+      "key": "0000000001ac1e77e4b4bd2b",
+      "location": "GTA3PSP.IMG:18784256",
+      "image_key": "128x128:69c04110f534ce04d7cb06f8fcb69beb38762448bd684f58dbdfdad8e2bf4965",
+      "raw_sha256": "24de0072933de55eb416b667b2aae09135a0c29ce8a8a7d4b3220d62cbb7e5a7",
+      "palette_sha256": "a4e667fd9641fd4c419abd5c7834a1c0b1f6eedb0992127774f89a25004b72df"
+    },
+    {
+      "key": "0000000072034a56a1ac0c5b",
+      "location": "GTA3PSP.IMG:19523584",
+      "image_key": "32x32:aed1f8624e3f35c4996ed0b26eb8fc75e20e039e32786c2acc5d2dfb5b801bbd",
+      "raw_sha256": "05881de05477891713eeff9c6cae8ea848367a1d7d5f5bff26b449e58608ca9e",
+      "palette_sha256": "5ffcab3be4f8ab2c94564c94646da918b36448e4a25ee7cf195dddd7b64e3ad0"
+    },
+    {
+      "key": "000000007061d8dde6681a48",
+      "location": "GTA3PSP.IMG:19523584",
+      "image_key": "64x64:6b4daa3b304ae320ff9c56b52707d7cb390683c678bec041c8e3602515878701",
+      "raw_sha256": "e753c8805c758c88fcf209d18ca70cc0c9e6e75443debd309831a90115810165",
+      "palette_sha256": "df0784fe9244ad7fc27dae9fca125845c043557d07a5f18fa281f836650dce2a"
+    },
+    {
+      "key": "0000000077160566b4930b49",
+      "location": "GTA3PSP.IMG:19537920",
+      "image_key": "64x64:2c11e8c4571bac5330e5d4005c5a58468e9f91f1c4b92ea8eba5c06531ecd44f",
+      "raw_sha256": "cd3f50868ce95e53beef28a64e21213751f216e512956223fdb77d0ab86336cd",
+      "palette_sha256": "7fbe574e0a9fc4c3a433ae97ae5ba8ac3c3d657f9651bda1c4cc20c98d85e7b4"
+    },
+    {
+      "key": "00000000b798770766863647",
+      "location": "GTA3PSP.IMG:19552256",
+      "image_key": "64x64:7cb95715928c6fd3051b7197e632c8543fcf220705883bc8c279645cfb36288f",
+      "raw_sha256": "251b5d468b6860f9f2581fa1017235097168f9bd991541905c04d209fe1716cf",
+      "palette_sha256": "532253be46e838dbfed125996f59510b94dc1aa77e7137e9ea8bfbbc057aaf0d"
+    },
+    {
+      "key": "0000000077160566b4930b49",
+      "location": "GTA3PSP.IMG:19560448",
+      "image_key": "64x64:2c11e8c4571bac5330e5d4005c5a58468e9f91f1c4b92ea8eba5c06531ecd44f",
+      "raw_sha256": "cd3f50868ce95e53beef28a64e21213751f216e512956223fdb77d0ab86336cd",
+      "palette_sha256": "7fbe574e0a9fc4c3a433ae97ae5ba8ac3c3d657f9651bda1c4cc20c98d85e7b4"
+    },
+    {
+      "key": "0000000077160566b4930b49",
+      "location": "GTA3PSP.IMG:19587072",
+      "image_key": "64x64:2c11e8c4571bac5330e5d4005c5a58468e9f91f1c4b92ea8eba5c06531ecd44f",
+      "raw_sha256": "cd3f50868ce95e53beef28a64e21213751f216e512956223fdb77d0ab86336cd",
+      "palette_sha256": "7fbe574e0a9fc4c3a433ae97ae5ba8ac3c3d657f9651bda1c4cc20c98d85e7b4"
+    },
+    {
+      "key": "00000000a229639c9b3713c7",
+      "location": "GTA3PSP.IMG:19595264",
+      "image_key": "64x64:c4a1828b0c48149da5fab119f950df5c0d441e85a49874f2b68b026b68530c03",
+      "raw_sha256": "b3b6e901c01d2005c87aeb838cede2f3e5f7f3ebbe5b26aac2001e33832a69a6",
+      "palette_sha256": "1c41b8773073189cedf86c35c5e3be53bd77dfe80a0420eac20ef8e627ef32e4"
+    },
+    {
+      "key": "00000000b798770766863647",
+      "location": "GTA3PSP.IMG:19603456",
+      "image_key": "64x64:7cb95715928c6fd3051b7197e632c8543fcf220705883bc8c279645cfb36288f",
+      "raw_sha256": "251b5d468b6860f9f2581fa1017235097168f9bd991541905c04d209fe1716cf",
+      "palette_sha256": "532253be46e838dbfed125996f59510b94dc1aa77e7137e9ea8bfbbc057aaf0d"
+    },
+    {
+      "key": "0000000012c0c9fcfe843d29",
+      "location": "GTA3PSP.IMG:19638272",
+      "image_key": "64x64:088d3b131775c1805b19dbbb73518aa18961a95527d4e5c9326e58cf8ea90642",
+      "raw_sha256": "e19c521ecafd254b5912c973f95fae70b46cc0fe7c044814f11a10d8ff4e30bf",
+      "palette_sha256": "4c0a88b26f3885c4f6c2941d27e683b1ec40aa402c4a659aa952c4978003e751"
+    },
+    {
+      "key": "00000000cd2a3dec1b0aaf84",
+      "location": "GTA3PSP.IMG:19658752",
+      "image_key": "64x64:f26f71b8f2e726a93843abf386b1a4ee44634e3245b53ed0cd895012fca3d430",
+      "raw_sha256": "6b90c26031228dd59e09648773ef7b20ca4979dd784c0b3372ac22638fe34a7b",
+      "palette_sha256": "f9ae50ca8a0dc17c2fe6c97e3547aa05f0b8ee8a1b9968bb8ba03f79f6d5246c"
+    },
+    {
+      "key": "000000000213e7f551393fa4",
+      "location": "GTA3PSP.IMG:19707904",
+      "image_key": "32x32:9d99414c27f14eed321d0b2d4a76334235340676c1054265d0d5c4d8829f9734",
+      "raw_sha256": "8c7710285407d04e7d6c275958cad6f2be8810e8532f45595fe7d84a731ceab5",
+      "palette_sha256": "ea59a02039b9ea2ae86a3a5cf6197d417aec6cfd0f5e937e01a888cb0d6774d9"
+    },
+    {
+      "key": "000000007061d8dde6681a48",
+      "location": "GTA3PSP.IMG:19707904",
+      "image_key": "64x64:6b4daa3b304ae320ff9c56b52707d7cb390683c678bec041c8e3602515878701",
+      "raw_sha256": "e753c8805c758c88fcf209d18ca70cc0c9e6e75443debd309831a90115810165",
+      "palette_sha256": "df0784fe9244ad7fc27dae9fca125845c043557d07a5f18fa281f836650dce2a"
+    },
+    {
+      "key": "000000007061d8dde6681a48",
+      "location": "GTA3PSP.IMG:19722240",
+      "image_key": "64x64:6b4daa3b304ae320ff9c56b52707d7cb390683c678bec041c8e3602515878701",
+      "raw_sha256": "e753c8805c758c88fcf209d18ca70cc0c9e6e75443debd309831a90115810165",
+      "palette_sha256": "df0784fe9244ad7fc27dae9fca125845c043557d07a5f18fa281f836650dce2a"
+    },
+    {
+      "key": "000000004d0310525a132739",
+      "location": "GTA3PSP.IMG:19847168",
+      "image_key": "64x64:f1b626e7a7e6bdfd2ec854394b6e1aac9d042189d5a51463d7a0ceff7d948cab",
+      "raw_sha256": "b4c26aeace24e9186e860b198c0dc278c0ae374831fb06f7cb0fcb2124c677b3",
+      "palette_sha256": "e1cfdb495086fc0827ee9d7a62c10743c9580c55838e361c1024e3ac9672493e"
+    },
+    {
+      "key": "00000000f354738e47951bff",
+      "location": "GTA3PSP.IMG:19894272",
+      "image_key": "64x64:de275931ec1e1bc138a4d5c3574cdc2a42f1340eadcb2450ed7a60e9b6565889",
+      "raw_sha256": "8d7499ccc5838bef4102250f64ab5d071fceba616b12e54e262f346a7b689053",
+      "palette_sha256": "16313493c78bdaa143f3f799a48cefe6339d179be095d51a051e12d929f8544e"
+    },
+    {
+      "key": "000000000c4ef32493d83e3a",
+      "location": "GTA3PSP.IMG:19941376",
+      "image_key": "64x64:011b553b07b1d1a3d9577e7deaefea23f45b5e22347614151d21d89febfc37ec",
+      "raw_sha256": "db04049c2c9fbdd407778c8ef3e4bc32466544fa6ee1bf21a0433146bcc65a86",
+      "palette_sha256": "09ccaeef077dbce645914d4af9b883bb157b05e8704721c800705212045955fc"
+    },
+    {
+      "key": "000000000c4ef32493d83e3a",
+      "location": "GTA3PSP.IMG:19953664",
+      "image_key": "64x64:011b553b07b1d1a3d9577e7deaefea23f45b5e22347614151d21d89febfc37ec",
+      "raw_sha256": "db04049c2c9fbdd407778c8ef3e4bc32466544fa6ee1bf21a0433146bcc65a86",
+      "palette_sha256": "09ccaeef077dbce645914d4af9b883bb157b05e8704721c800705212045955fc"
+    },
+    {
+      "key": "000000000c4ef32493d83e3a",
+      "location": "GTA3PSP.IMG:19965952",
+      "image_key": "64x64:011b553b07b1d1a3d9577e7deaefea23f45b5e22347614151d21d89febfc37ec",
+      "raw_sha256": "db04049c2c9fbdd407778c8ef3e4bc32466544fa6ee1bf21a0433146bcc65a86",
+      "palette_sha256": "09ccaeef077dbce645914d4af9b883bb157b05e8704721c800705212045955fc"
+    },
+    {
+      "key": "000000000c4ef32493d83e3a",
+      "location": "GTA3PSP.IMG:19978240",
+      "image_key": "64x64:011b553b07b1d1a3d9577e7deaefea23f45b5e22347614151d21d89febfc37ec",
+      "raw_sha256": "db04049c2c9fbdd407778c8ef3e4bc32466544fa6ee1bf21a0433146bcc65a86",
+      "palette_sha256": "09ccaeef077dbce645914d4af9b883bb157b05e8704721c800705212045955fc"
+    },
+    {
+      "key": "000000000c4ef32493d83e3a",
+      "location": "GTA3PSP.IMG:19990528",
+      "image_key": "64x64:011b553b07b1d1a3d9577e7deaefea23f45b5e22347614151d21d89febfc37ec",
+      "raw_sha256": "db04049c2c9fbdd407778c8ef3e4bc32466544fa6ee1bf21a0433146bcc65a86",
+      "palette_sha256": "09ccaeef077dbce645914d4af9b883bb157b05e8704721c800705212045955fc"
+    },
+    {
+      "key": "000000000bdb240fc97aa2d1",
+      "location": "GTA3PSP.IMG:20064256",
+      "image_key": "32x32:62a3be6dab043e6f5d407f2980efbc01bdd14608b1d54a93c9bcb32835805283",
+      "raw_sha256": "fb1f7106e3a67b13167770c7f4f6eb63624f2ce03420f8b224012366d193b423",
+      "palette_sha256": "88d0aaf810bdd7ea2dd0c4f123beb2a49689d4d5a6f41aaf0b09b17f80cf6b4f"
+    },
+    {
+      "key": "0000000078a896664e1119e6",
+      "location": "GTA3PSP.IMG:20072448",
+      "image_key": "64x64:e1f54d67d9907de3368fddc647dd61a2e56dbe452e42cf843bebcaa1882c0b60",
+      "raw_sha256": "1b7845c72f018088916f467f3d40977972ff1f647fdd049c6a7f2fe329de0f7c",
+      "palette_sha256": "3a78d11d37378e4b11ec99529d0ac34f344ef17d58fd9fb7d7138a365b53e41d"
+    },
+    {
+      "key": "0000000045c007ecccdd6656",
+      "location": "GTA3PSP.IMG:20072448",
+      "image_key": "32x32:dbd2ebae172122bd0aac605defa5c8867a15e6e296fef20aabd665ecbf69fc08",
+      "raw_sha256": "db33080c41093c5690a2c63ee10914c671c04132f3fd7a43dc0bbfe57b3b3103",
+      "palette_sha256": "c1f95b09aec6ec9cfdab426e898fdf0723cb215eb90ed978dcb67d0c4b23b0f9"
+    },
+    {
+      "key": "000000007f8199032aa69cba",
+      "location": "GTA3PSP.IMG:20217856",
+      "image_key": "32x32:ee4866134dc9049ace3f4026efd14dd01bc9344d613899da574a4f9e29e9dffc",
+      "raw_sha256": "ce43d48eafa870dbd9e0277e583cb1fda71bc952bfc7ce9c71a20ffab751176a",
+      "palette_sha256": "72414166c30d24e52b6c048cb1d0732c58aabafaa875e9d32904744de5ef8363"
+    },
+    {
+      "key": "0000000039731844fb41624d",
+      "location": "GTA3PSP.IMG:20240384",
+      "image_key": "64x64:b5a71aba370c06aa678aa4e7911a1c0554b72d86ad7dcd3242c63eb53c443034",
+      "raw_sha256": "eaa6fb1bfc8bc90290a7acf87fc2522dcd0fc1233536cabb9cec21e196667f2b",
+      "palette_sha256": "11c900339b7f97c86c877826e994bea8c812251b51992f6ba69ca024f96ac415"
+    },
+    {
+      "key": "000000002ff1eae2af45bf25",
+      "location": "GTA3PSP.IMG:20258816",
+      "image_key": "64x64:426318f6077aea8c072616997263e6e955fe268b478b9a5c99b37d8c4c8dc193",
+      "raw_sha256": "5b8af20492f9617d31f8d8757ac8129dff2202a28cb5570f1171a4254fa1e5fa",
+      "palette_sha256": "44e383ffbe974b17f75d84a9005be053105612c2c77c142371f77b1db16331c6"
+    },
+    {
+      "key": "000000002ff1eae2af45bf25",
+      "location": "GTA3PSP.IMG:20264960",
+      "image_key": "64x64:426318f6077aea8c072616997263e6e955fe268b478b9a5c99b37d8c4c8dc193",
+      "raw_sha256": "5b8af20492f9617d31f8d8757ac8129dff2202a28cb5570f1171a4254fa1e5fa",
+      "palette_sha256": "44e383ffbe974b17f75d84a9005be053105612c2c77c142371f77b1db16331c6"
+    },
+    {
+      "key": "000000002ff1eae2af45bf25",
+      "location": "GTA3PSP.IMG:20271104",
+      "image_key": "64x64:426318f6077aea8c072616997263e6e955fe268b478b9a5c99b37d8c4c8dc193",
+      "raw_sha256": "5b8af20492f9617d31f8d8757ac8129dff2202a28cb5570f1171a4254fa1e5fa",
+      "palette_sha256": "44e383ffbe974b17f75d84a9005be053105612c2c77c142371f77b1db16331c6"
+    },
+    {
+      "key": "00000000b8d9c5353c735fb5",
+      "location": "GTA3PSP.IMG:20277248",
+      "image_key": "64x64:19cb119bbbd25dc3b1b5bfa9d05a8abc93f55605f34b0bae66d95b52363b7079",
+      "raw_sha256": "8f6d63d82d56b87bf12b26b7614ecc4987f35c27defc4bbc700f50461f1392e7",
+      "palette_sha256": "a0044906aea4de03eaec8c8013157c63eaa23aa6bde4d8cacc768616be3be3c8"
+    },
+    {
+      "key": "00000000b798770766863647",
+      "location": "GTA3PSP.IMG:20510720",
+      "image_key": "64x64:7cb95715928c6fd3051b7197e632c8543fcf220705883bc8c279645cfb36288f",
+      "raw_sha256": "251b5d468b6860f9f2581fa1017235097168f9bd991541905c04d209fe1716cf",
+      "palette_sha256": "532253be46e838dbfed125996f59510b94dc1aa77e7137e9ea8bfbbc057aaf0d"
+    },
+    {
+      "key": "0000000079797032eeeae2fb",
+      "location": "GTA3PSP.IMG:20543488",
+      "image_key": "32x32:3307dda579a9dd65c80b1f412604450a54d41e347ee900b4b816c5961a91fb3e",
+      "raw_sha256": "d8802904b075c5e6b4a3f93231ecbaad8338272d1d4629ebb80581f463649587",
+      "palette_sha256": "16ba5fb4c57bc70e71980180a283f688b9f6c4878912a1554665299a05d57cef"
+    },
+    {
+      "key": "000000006aca2e1bdc1a49d3",
+      "location": "GTA3PSP.IMG:20563968",
+      "image_key": "32x32:bb194c5ba1a57b11f8b4d3074495d7700369eab92cb706c1cc9f2180f68b27c0",
+      "raw_sha256": "be7bd4eea7fb8bf05aca212a4387b7667bff799794de3d47ce4c274e8948744e",
+      "palette_sha256": "52d075ed329659a255137f9ab8d1270e87a393b476fe2e843eb7aa0d68a9941d"
+    },
+    {
+      "key": "000000006aca2e1bdc1a49d3",
+      "location": "GTA3PSP.IMG:20582400",
+      "image_key": "32x32:bb194c5ba1a57b11f8b4d3074495d7700369eab92cb706c1cc9f2180f68b27c0",
+      "raw_sha256": "be7bd4eea7fb8bf05aca212a4387b7667bff799794de3d47ce4c274e8948744e",
+      "palette_sha256": "52d075ed329659a255137f9ab8d1270e87a393b476fe2e843eb7aa0d68a9941d"
+    },
+    {
+      "key": "0000000079797032eeeae2fb",
+      "location": "GTA3PSP.IMG:20600832",
+      "image_key": "32x32:3307dda579a9dd65c80b1f412604450a54d41e347ee900b4b816c5961a91fb3e",
+      "raw_sha256": "d8802904b075c5e6b4a3f93231ecbaad8338272d1d4629ebb80581f463649587",
+      "palette_sha256": "16ba5fb4c57bc70e71980180a283f688b9f6c4878912a1554665299a05d57cef"
+    },
+    {
+      "key": "0000000045c007ecccdd6656",
+      "location": "GTA3PSP.IMG:20684800",
+      "image_key": "32x32:dbd2ebae172122bd0aac605defa5c8867a15e6e296fef20aabd665ecbf69fc08",
+      "raw_sha256": "db33080c41093c5690a2c63ee10914c671c04132f3fd7a43dc0bbfe57b3b3103",
+      "palette_sha256": "c1f95b09aec6ec9cfdab426e898fdf0723cb215eb90ed978dcb67d0c4b23b0f9"
+    },
+    {
+      "key": "0000000079797032eeeae2fb",
+      "location": "GTA3PSP.IMG:20979712",
+      "image_key": "32x32:3307dda579a9dd65c80b1f412604450a54d41e347ee900b4b816c5961a91fb3e",
+      "raw_sha256": "d8802904b075c5e6b4a3f93231ecbaad8338272d1d4629ebb80581f463649587",
+      "palette_sha256": "16ba5fb4c57bc70e71980180a283f688b9f6c4878912a1554665299a05d57cef"
+    },
+    {
+      "key": "0000000045c007ecccdd6656",
+      "location": "GTA3PSP.IMG:21344256",
+      "image_key": "32x32:dbd2ebae172122bd0aac605defa5c8867a15e6e296fef20aabd665ecbf69fc08",
+      "raw_sha256": "db33080c41093c5690a2c63ee10914c671c04132f3fd7a43dc0bbfe57b3b3103",
+      "palette_sha256": "c1f95b09aec6ec9cfdab426e898fdf0723cb215eb90ed978dcb67d0c4b23b0f9"
+    },
+    {
+      "key": "0000000045c007ecccdd6656",
+      "location": "GTA3PSP.IMG:21370880",
+      "image_key": "32x32:dbd2ebae172122bd0aac605defa5c8867a15e6e296fef20aabd665ecbf69fc08",
+      "raw_sha256": "db33080c41093c5690a2c63ee10914c671c04132f3fd7a43dc0bbfe57b3b3103",
+      "palette_sha256": "c1f95b09aec6ec9cfdab426e898fdf0723cb215eb90ed978dcb67d0c4b23b0f9"
+    },
+    {
+      "key": "0000000045c007ecccdd6656",
+      "location": "GTA3PSP.IMG:21403648",
+      "image_key": "32x32:dbd2ebae172122bd0aac605defa5c8867a15e6e296fef20aabd665ecbf69fc08",
+      "raw_sha256": "db33080c41093c5690a2c63ee10914c671c04132f3fd7a43dc0bbfe57b3b3103",
+      "palette_sha256": "c1f95b09aec6ec9cfdab426e898fdf0723cb215eb90ed978dcb67d0c4b23b0f9"
+    },
+    {
+      "key": "000000004d0310525a132739",
+      "location": "GTA3PSP.IMG:21862400",
+      "image_key": "64x64:f1b626e7a7e6bdfd2ec854394b6e1aac9d042189d5a51463d7a0ceff7d948cab",
+      "raw_sha256": "b4c26aeace24e9186e860b198c0dc278c0ae374831fb06f7cb0fcb2124c677b3",
+      "palette_sha256": "e1cfdb495086fc0827ee9d7a62c10743c9580c55838e361c1024e3ac9672493e"
+    },
+    {
+      "key": "000000006aca2e1bdc1a49d3",
+      "location": "GTA3PSP.IMG:21862400",
+      "image_key": "32x32:bb194c5ba1a57b11f8b4d3074495d7700369eab92cb706c1cc9f2180f68b27c0",
+      "raw_sha256": "be7bd4eea7fb8bf05aca212a4387b7667bff799794de3d47ce4c274e8948744e",
+      "palette_sha256": "52d075ed329659a255137f9ab8d1270e87a393b476fe2e843eb7aa0d68a9941d"
+    },
+    {
+      "key": "00000000fb29f6bfc7a280d7",
+      "location": "GTA3PSP.IMG:21940224",
+      "image_key": "64x64:18393c25bfcbed83a229f5337663a034299a107a6333c5aec4e55722027a6070",
+      "raw_sha256": "f2ff6490a05126643f645961845fd95ea0110c56842f5daf175b3494fcfec08a",
+      "palette_sha256": "e93691f34c13465ceb492afab16051530157706cb1e022c3c127792f80ad1085"
+    },
+    {
+      "key": "000000006aca2e1bdc1a49d3",
+      "location": "GTA3PSP.IMG:21975040",
+      "image_key": "32x32:bb194c5ba1a57b11f8b4d3074495d7700369eab92cb706c1cc9f2180f68b27c0",
+      "raw_sha256": "be7bd4eea7fb8bf05aca212a4387b7667bff799794de3d47ce4c274e8948744e",
+      "palette_sha256": "52d075ed329659a255137f9ab8d1270e87a393b476fe2e843eb7aa0d68a9941d"
+    },
+    {
+      "key": "00000000fb29f6bfc7a280d7",
+      "location": "GTA3PSP.IMG:22167552",
+      "image_key": "64x64:18393c25bfcbed83a229f5337663a034299a107a6333c5aec4e55722027a6070",
+      "raw_sha256": "f2ff6490a05126643f645961845fd95ea0110c56842f5daf175b3494fcfec08a",
+      "palette_sha256": "e93691f34c13465ceb492afab16051530157706cb1e022c3c127792f80ad1085"
+    },
+    {
+      "key": "0000000079797032eeeae2fb",
+      "location": "GTA3PSP.IMG:22224896",
+      "image_key": "32x32:3307dda579a9dd65c80b1f412604450a54d41e347ee900b4b816c5961a91fb3e",
+      "raw_sha256": "d8802904b075c5e6b4a3f93231ecbaad8338272d1d4629ebb80581f463649587",
+      "palette_sha256": "16ba5fb4c57bc70e71980180a283f688b9f6c4878912a1554665299a05d57cef"
+    },
+    {
+      "key": "00000000fb29f6bfc7a280d7",
+      "location": "GTA3PSP.IMG:22317056",
+      "image_key": "64x64:18393c25bfcbed83a229f5337663a034299a107a6333c5aec4e55722027a6070",
+      "raw_sha256": "f2ff6490a05126643f645961845fd95ea0110c56842f5daf175b3494fcfec08a",
+      "palette_sha256": "e93691f34c13465ceb492afab16051530157706cb1e022c3c127792f80ad1085"
+    },
+    {
+      "key": "000000000c4ef32493d83e3a",
+      "location": "GTA3PSP.IMG:22368256",
+      "image_key": "64x64:011b553b07b1d1a3d9577e7deaefea23f45b5e22347614151d21d89febfc37ec",
+      "raw_sha256": "db04049c2c9fbdd407778c8ef3e4bc32466544fa6ee1bf21a0433146bcc65a86",
+      "palette_sha256": "09ccaeef077dbce645914d4af9b883bb157b05e8704721c800705212045955fc"
+    },
+    {
+      "key": "000000008bc4c09a02b693a1",
+      "location": "GTA3PSP.IMG:22378496",
+      "image_key": "64x64:d21bdb9acf9776fa2749138a6158db6f36b91876c7cb8e150373fcb537b30891",
+      "raw_sha256": "0b7f56c3a9951eb8515fc86588b598cb05978e8757aaf3a590c4277729ec3bde",
+      "palette_sha256": "b813df1456cf47f453ac72975a03c7932522e08c16a35e191ba009cca08b7f53"
+    },
+    {
+      "key": "000000008bc4c09a02b693a1",
+      "location": "GTA3PSP.IMG:22415360",
+      "image_key": "64x64:d21bdb9acf9776fa2749138a6158db6f36b91876c7cb8e150373fcb537b30891",
+      "raw_sha256": "0b7f56c3a9951eb8515fc86588b598cb05978e8757aaf3a590c4277729ec3bde",
+      "palette_sha256": "b813df1456cf47f453ac72975a03c7932522e08c16a35e191ba009cca08b7f53"
+    },
+    {
+      "key": "00000000fb29f6bfc7a280d7",
+      "location": "GTA3PSP.IMG:23572480",
+      "image_key": "64x64:18393c25bfcbed83a229f5337663a034299a107a6333c5aec4e55722027a6070",
+      "raw_sha256": "f2ff6490a05126643f645961845fd95ea0110c56842f5daf175b3494fcfec08a",
+      "palette_sha256": "e93691f34c13465ceb492afab16051530157706cb1e022c3c127792f80ad1085"
+    },
+    {
+      "key": "000000002ff1eae2af45bf25",
+      "location": "GTA3PSP.IMG:24739840",
+      "image_key": "64x64:426318f6077aea8c072616997263e6e955fe268b478b9a5c99b37d8c4c8dc193",
+      "raw_sha256": "5b8af20492f9617d31f8d8757ac8129dff2202a28cb5570f1171a4254fa1e5fa",
+      "palette_sha256": "44e383ffbe974b17f75d84a9005be053105612c2c77c142371f77b1db16331c6"
+    }
+  ]
+}

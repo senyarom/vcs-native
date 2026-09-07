@@ -1,0 +1,43 @@
+{
+  "merged_at": "2026-09-07T10:42:34.557258+00:00",
+  "source": "pc_vc_originals",
+  "source_commit": "d4524c33e47a73d6c6661bce90968f241bdea486",
+  "previous_keys": 617,
+  "previous_png_files": 528,
+  "added_keys": 1513,
+  "added_original_images": 1513,
+  "added_png_files": 1431,
+  "added_png_bytes": 74474487,
+  "keys": 2130,
+  "png_files": 1959,
+  "known_gaps_filled": 12,
+  "previous_png_bytes_preserved": true,
+  "previous_assignments_preserved": true,
+  "source_png_bytes_identical": true,
+  "current_game_keys_verified": 1513,
+  "wildcard_conflicts": 0,
+  "visually_reviewed_selected_images": 1053,
+  "strict_identity_selected_images": 460,
+  "rejected_candidates": 45,
+  "original_opaque_images": 1506,
+  "runtime_game_test_performed": false,
+  "steam_deck_deployed": false,
+  "coverage_before": {
+    "records": 7522,
+    "unique_images": 6567,
+    "unique_native_keys": 6636,
+    "hd_images": 605,
+    "uncovered_images": 5962,
+    "matched_manifest_keys": 606,
+    "coverage_percent": 9.21
+  },
+  "coverage_after": {
+    "records": 7522,
+    "unique_images": 6567,
+    "unique_native_keys": 6636,
+    "hd_images": 2118,
+    "uncovered_images": 4449,
+    "matched_manifest_keys": 2119,
+    "coverage_percent": 32.25
+  }
+}

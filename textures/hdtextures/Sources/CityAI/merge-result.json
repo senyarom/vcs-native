@@ -1,0 +1,18 @@
+{
+  "merged_at": "2026-09-06T15:32:14.734776+00:00",
+  "destination": "textures/RealHDTextures",
+  "previous_keys": 347,
+  "previous_png_files": 314,
+  "added_keys": 63,
+  "added_png_files": 63,
+  "added_png_bytes": 7104015,
+  "known_gaps_filled": 20,
+  "keys": 410,
+  "png_files": 377,
+  "png_bytes": 40512597,
+  "previous_png_bytes_preserved": true,
+  "previous_assignments_preserved": true,
+  "new_pngs_identical_to_source_archive": true,
+  "wildcard_conflicts": 0,
+  "runtime_game_test_performed": false
+}

@@ -1,0 +1,20 @@
+{
+  "merged_at": "2026-09-07T10:08:56.237743+00:00",
+  "previous_keys": 410,
+  "previous_png_files": 377,
+  "added_keys": 207,
+  "added_png_files": 151,
+  "added_png_bytes": 45290882,
+  "source_texture_entries": 564,
+  "source_unique_images": 431,
+  "keys": 617,
+  "png_files": 528,
+  "known_gaps_filled": 9,
+  "previous_png_bytes_preserved": true,
+  "previous_assignments_preserved": true,
+  "decoded_source_rgba_preserved": true,
+  "current_game_keys_verified": 207,
+  "wildcard_conflicts": 0,
+  "runtime_game_test_performed": false,
+  "steam_deck_deployed": false
+}

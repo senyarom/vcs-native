@@ -1,0 +1,7 @@
+# Preserve imported bytes independently of each developer's line-ending defaults.
+game/generated/** -text linguist-generated=true
+third_party/** -text linguist-vendored=true
+textures/** -text
+docs/history/** -text
+*.sh text eol=lf
+*.command text eol=lf

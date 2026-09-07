@@ -1,0 +1,8 @@
+﻿path,width,height,bytes,sha256,alpha_min,alpha_max,source_path,status
+Assets/Existing/Buttons/L_Button.png,128,128,2352,707c11047e72776af3f748f8d4ef08665868a42283b041150a333967be5eccb6,0,255,Buttons/L_Button.png,Preserved existing file; no verified active key
+Assets/Existing/Buttons/R_Button.png,128,128,2587,57f5d49e2d6503268ca3295846715ec67454012c61dfb70f8ba5ab273ee0619a,0,255,Buttons/R_Button.png,Preserved existing file; no verified active key
+Assets/Existing/Buttons/Triangle.png,128,128,4719,f607db7bac3b70429b6e532f35d64b3e5df70d1c9b1509fcdd0abdb28c089500,0,255,Buttons/Triangle.png,Preserved existing file; no verified active key
+Assets/Existing/HUD/Radar/Building_Icon.png,128,128,1333,e31489e692c8707c6d7ec0566fd4aa6fe361170a47e8925d34e95437be37534a,0,255,HUD/Radar/Building_Icon.png,Preserved existing file; no verified active key
+Assets/Existing/HUD/Weapons/Blank.png,256,256,3078,68dcfb90d55f5b73b399300103e00ec0007ba6559aeb966bbb5013296bb29c57,0,255,HUD/Weapons/Blank.png,Preserved existing file; no verified active key
+Assets/Existing/HUD/Weapons/Tear_Gas.png,256,256,11098,4cadf831667a61418eb534d1c0e0bc1669d69f377a6f542fa2223073fa5b2f65,0,254,HUD/Weapons/Tear_Gas.png,Preserved existing file; no verified active key
+Assets/Existing/Text/HUD_Numbers Alt Star.png,1024,512,36587,3e48dbafd539a367c72efaa3b33d914122a9175346296de2ca67e4abbfa3e418,0,255,Text/HUD_Numbers Alt Star.png,Preserved existing file; no verified active key

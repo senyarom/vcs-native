@@ -1,0 +1,52 @@
+{
+  "method": "Unique base-mip RGBA images plus dimensions; identical images deduplicated; separate LOD/color variants retained. Inventory includes city, named dictionaries, recovered radar/UI, and registered GAME.DTZ dictionaries. Not proof of exhaustive coverage of every dynamic game texture.",
+  "before": {
+    "records": 7522,
+    "unique_images": 6567,
+    "unique_native_keys": 6636,
+    "hd_images": 605,
+    "uncovered_images": 5962,
+    "matched_manifest_keys": 606,
+    "coverage_percent": 9.21
+  },
+  "after": {
+    "records": 7522,
+    "unique_images": 6567,
+    "unique_native_keys": 6636,
+    "hd_images": 2118,
+    "uncovered_images": 4449,
+    "matched_manifest_keys": 2119,
+    "coverage_percent": 32.25
+  },
+  "city_before": {
+    "records": 4486,
+    "unique_images": 4479,
+    "unique_native_keys": 4486,
+    "hd_images": 347,
+    "uncovered_images": 4132,
+    "matched_manifest_keys": 347,
+    "coverage_percent": 7.75
+  },
+  "city_after": {
+    "records": 4486,
+    "unique_images": 4479,
+    "unique_native_keys": 4486,
+    "hd_images": 1835,
+    "uncovered_images": 2644,
+    "matched_manifest_keys": 1835,
+    "coverage_percent": 40.97
+  },
+  "unmatched_active_keys": [
+    "00000000012d62e6060235f0",
+    "0000000018d164d21aa57f0b",
+    "0000000028fff57ca36924fb",
+    "000000003a3e2031cb5a1057",
+    "000000004e09eb8eb22df142",
+    "000000005f52ce39bcdd8198",
+    "000000007a2c52c42d51d995",
+    "000000008620e6a25ee16643",
+    "00000000adabe5976c7fb275",
+    "00000000af264144fa759d54",
+    "00000000dbf978d4e2c092f0"
+  ]
+}

@@ -1,0 +1,317 @@
+[
+  {
+    "candidate_id": 362,
+    "image_key": "128x128:f423116862aaaf62e69647a718294b13c41046655306973223a723a6c88dbaa8",
+    "pc_name": "yellowbuildc256",
+    "pc_source_path": "source/FromPC/ci_industrial/yellowbuildc256.png",
+    "reason": "PC facade introduces a hotel sign absent from the PSP texture."
+  },
+  {
+    "candidate_id": 382,
+    "image_key": "64x64:e77edc3550e95a043e44d53d3b5b87637b2131681dd7c16f224b8c2a3e36ab1d",
+    "pc_name": "walldetail3_128",
+    "pc_source_path": "source/FromPC/lhbuild3/walldetail3_128.png",
+    "reason": "Teal facade detail matched lavender facade variant."
+  },
+  {
+    "candidate_id": 566,
+    "image_key": "32x64:3578430163b9862f3320f4cf38b2f806240171310cc3062e572a8cec5337b997",
+    "pc_name": "Bow_drug_int_wall_tp",
+    "pc_source_path": "source/FromPC/bed/Bow_drug_int_wall_tp.png",
+    "reason": "Blue plaster matched a green variant."
+  },
+  {
+    "candidate_id": 584,
+    "image_key": "64x64:cfbaf91cabc10c6ffe00f0e970bf997385770d91a15583ebeb1f9e00fea616ce",
+    "pc_name": "hotelbase2_256",
+    "pc_source_path": "source/FromPC/washotel2/hotelbase2_256.png",
+    "reason": "Turquoise cornice matched gray cornice; retain original color variant."
+  },
+  {
+    "candidate_id": 622,
+    "image_key": "32x32:2d314341ef1c4a9efb5052c368bf14753977567d6d5f557fed19310593efdd15",
+    "pc_name": "hotelwin2blue_256 copy",
+    "pc_source_path": "source/FromPC/nbhotel03/hotelwin2blue_256 copy.png",
+    "reason": "Beige window frames matched a blue/white facade variant."
+  },
+  {
+    "candidate_id": 670,
+    "image_key": "128x128:4de7350c7f8471bcad0fb4966a1aa5eae9b1a7107f789725711b0a0c62445b44",
+    "pc_name": "gredr256hi",
+    "pc_source_path": "source/FromPC/lhaitiblk6f/gredr256hi.png",
+    "reason": "Facade matches, but original blue badge/sign is replaced by a different green logo."
+  },
+  {
+    "candidate_id": 702,
+    "image_key": "64x64:26ae39b136184968696a4d4395ae4ab713ebec950a714dd876c7b66ce9630f9f",
+    "pc_name": "man_stucco_white3_256",
+    "pc_source_path": "source/FromPC/mansion_new/man_stucco_white3_256.png",
+    "reason": "Green stucco matched a pink variant."
+  },
+  {
+    "candidate_id": 808,
+    "image_key": "64x64:af53c6d484edb3e20c59f8f64dfad298e978767410b9a3238d27249a73b98ca8",
+    "pc_name": "walldetail4_128",
+    "pc_source_path": "source/FromPC/lhbuild3/walldetail4_128.png",
+    "reason": "Yellow facade detail matched pink facade variant."
+  },
+  {
+    "candidate_id": 816,
+    "image_key": "64x64:059f103492f79ad215dc071346ca373f6864987584d7b654c9813130af8aaa55",
+    "pc_name": "awning3256",
+    "pc_source_path": "source/FromPC/dt_newtest1/awning3256.png",
+    "reason": "Original red/blue awning matched a purple stripe variant."
+  },
+  {
+    "candidate_id": 1127,
+    "image_key": "32x32:6d044d408a80f44fb890a1f3f73125dbd96c945b1c18288ea92a48f637f3f200",
+    "pc_name": "mp_cleantiles3_256",
+    "pc_source_path": "source/FromPC/nbt_mansionbase02/mp_cleantiles3_256.png",
+    "reason": "Gray tile grid matched blue glass-like tile variant; color/material uncertain."
+  },
+  {
+    "candidate_id": 1162,
+    "image_key": "16x16:4c7633305c2457b6f1df804ac878f02bcaec14736b52f03cea04ea4829663793",
+    "pc_name": "beachscooter1_3256",
+    "pc_source_path": "source/FromPC/newashbuild1/beachscooter1_3256.png",
+    "reason": "Featureless blue panel; white PC counterpart not confidently identified."
+  },
+  {
+    "candidate_id": 1245,
+    "image_key": "64x64:9b276f030b7b3026bf05d52db8f9e6dcb17c70e959ccfcd1460f9853d1d78d45",
+    "pc_name": "curtain2_128",
+    "pc_source_path": "source/FromPC/scarinterior/curtain2_128.png",
+    "reason": "Brown/purple curtains matched a green variant."
+  },
+  {
+    "candidate_id": 1290,
+    "image_key": "64x64:cf0bc335fe7a8eb6a4e052a7045a7be9d1b146aeef18fec403b933248c3da404",
+    "pc_name": "carparkwall12_256",
+    "pc_source_path": "source/FromPC/washnewbuild24/carparkwall12_256.png",
+    "reason": "Yellow masonry matched gray masonry; incompatible color variant."
+  },
+  {
+    "candidate_id": 1321,
+    "image_key": "32x32:90739b833cd88b311ec8e0239da611e44183a0c48a88868306904febdd3ffd6b",
+    "pc_name": "ventb64",
+    "pc_source_path": "source/FromPC/dk_midbuilds/ventb64.png",
+    "reason": "Brass-colored vent matched a gray vent variant."
+  },
+  {
+    "candidate_id": 1406,
+    "image_key": "64x64:d75b046dc400ee630051de147b14fb8a0f7a6aba62441227b8b957bde208a945",
+    "pc_name": "greenwall256",
+    "pc_source_path": "source/FromPC/ci_studio6/greenwall256.png",
+    "reason": "Beige wall matched a teal paint variant."
+  },
+  {
+    "candidate_id": 1456,
+    "image_key": "64x64:42740abae4e23369d28a190046d3a06532bdf962641e0341d460217e3d4e1998",
+    "pc_name": "warewall2",
+    "pc_source_path": "source/FromPC/docfactories/warewall2.png",
+    "reason": "Green corrugated wall matched gray variant."
+  },
+  {
+    "candidate_id": 1496,
+    "image_key": "32x32:85b84f65f976ba289f634581060883892bcad5b73772d0d8a52fe8e406ca449c",
+    "pc_name": "ml_glasswin",
+    "pc_source_path": "source/FromPC/ml_clothes/ml_glasswin.png",
+    "reason": "Plain glass candidate does not retain the original row of small marks."
+  },
+  {
+    "candidate_id": 1533,
+    "image_key": "128x128:064ab72ff2b2337f3fc49d68f693e0f4b9c9905f511e3fad607f00f04eda8ba8",
+    "pc_name": "hosp04_256",
+    "pc_source_path": "source/FromPC/wash_hosp/hosp04_256.png",
+    "reason": "Plain beige plaster matched a tiled hospital wall with cornice and grass."
+  },
+  {
+    "candidate_id": 1534,
+    "image_key": "16x16:af31421c961252ce0097770f06fac403e817bdbfaf42317102de327e0a641114",
+    "pc_name": "yellowbuildc256",
+    "pc_source_path": "source/FromPC/ci_industrial/yellowbuildc256.png",
+    "reason": "PC facade introduces a hotel sign absent from the PSP LOD texture."
+  },
+  {
+    "candidate_id": 1559,
+    "image_key": "64x64:897dca7fdbea99042e65f519ffbd7a422590861285352fb901d4b380bd7fa0e4",
+    "pc_name": "concretenew256",
+    "pc_source_path": "source/FromPC/bwidge/concretenew256.png",
+    "reason": "Blue concrete matched beige variant."
+  },
+  {
+    "candidate_id": 1571,
+    "image_key": "32x32:7450b236c35a0f49f19304ddc043f1620a0e0d55460d0f08192be04d91afd9e3",
+    "pc_name": "kb_sofa5_256",
+    "pc_source_path": "source/FromPC/hi_cutcluboffice/kb_sofa5_256.png",
+    "reason": "Dark leather sofa matched a noisy fabric-like alternative."
+  },
+  {
+    "candidate_id": 1581,
+    "image_key": "32x32:af9c01a6231957de4662987486a79c118147e88015fbbf9bda6c0c8a1a66b5fc",
+    "pc_name": "yellwall256",
+    "pc_source_path": "source/FromPC/nbeachwgen/yellwall256.png",
+    "reason": "Orange wall matched a substantially yellower variant."
+  },
+  {
+    "candidate_id": 1591,
+    "image_key": "64x64:369e2e4e4ffedfebf42fc19e74c40ba76c8bfa202228b4b5765f1a1dd8e15a61",
+    "pc_name": "litegreywall2",
+    "pc_source_path": "source/FromPC/nbhotel02/litegreywall2.png",
+    "reason": "Blue wall matched a gray paint variant."
+  },
+  {
+    "candidate_id": 1668,
+    "image_key": "32x32:027d81240b96f874c391f4b611ceed4db9d0e2d195fd6f5b029ead598629e4c9",
+    "pc_name": "mp_monitor_128",
+    "pc_source_path": "source/FromPC/philinter/mp_monitor_128.png",
+    "reason": "Monitor contents differ: original green display versus PC reflection."
+  },
+  {
+    "candidate_id": 1673,
+    "image_key": "32x32:dd3f2f8e07fa72121d13a248ecee238fe56ceda9191c4258f8ec59b1ce362fa4",
+    "pc_name": "poolsidewall01_256",
+    "pc_source_path": "source/FromPC/nbt_htlpoolrm/poolsidewall01_256.png",
+    "reason": "Plain saturated blue gradient matched textured teal pool wall."
+  },
+  {
+    "candidate_id": 1704,
+    "image_key": "32x32:033e9e0c2c42fe165c336f25587aebe4c589cf25c11393bc2479e556b39e9452",
+    "pc_name": "coptop_green",
+    "pc_source_path": "source/FromPC/nbtrooftop/coptop_green.png",
+    "reason": "Orange brick/plaster matched smooth green wall."
+  },
+  {
+    "candidate_id": 1741,
+    "image_key": "32x32:74130d932d8215b49b58c85c60acb924ba1cf26b0fbd7d862609d6d2b3efb0d4",
+    "pc_name": "lodsjmtex8",
+    "pc_source_path": "source/FromPC/lodhaitibig/lodsjmtex8.png",
+    "reason": "Orange brick/trim atlas matched a differently colored PC variant."
+  },
+  {
+    "candidate_id": 1759,
+    "image_key": "64x64:ff83747d4cb43fde5e8e3db306eb1e534d6538fbb7eb743c2679d366621e53d8",
+    "pc_name": "yellowbrkbump_sless",
+    "pc_source_path": "source/FromPC/buildinghan/yellowbrkbump_sless.png",
+    "reason": "Low edge agreement; horizontal yellow relief does not confidently match PC brick pattern."
+  },
+  {
+    "candidate_id": 1774,
+    "image_key": "64x64:56cd410c47364760808389e36bbdfedc6b938bc550c61a33d3da65217d93ed19",
+    "pc_name": "yellwall2_256",
+    "pc_source_path": "source/FromPC/nbt_mansion02/yellwall2_256.png",
+    "reason": "Orange wall matched a pale yellow variant."
+  },
+  {
+    "candidate_id": 1781,
+    "image_key": "64x64:4bff41dcdcd30638178aae621a8640c11dededc9e4ea54fc8e831a9a3cf13949",
+    "pc_name": "kb_spad_tile2_256",
+    "pc_source_path": "source/FromPC/newroof/kb_spad_tile2_256.png",
+    "reason": "Nearly uniform dark surface; tile identity remains uncertain."
+  },
+  {
+    "candidate_id": 1793,
+    "image_key": "64x64:106c410621095363eb55b64068bcf82d401e0cd28b426b923db01329a22edb98",
+    "pc_name": "ci_metal1",
+    "pc_source_path": "source/FromPC/ci_setstuff1/ci_metal1.png",
+    "reason": "Smooth blue gradient matched brushed metal; no confirming detail."
+  },
+  {
+    "candidate_id": 1807,
+    "image_key": "8x8:76a513f921f641828c0b099eb35732739139475f0e93c3dd4f6a099c87d1c7df",
+    "pc_name": "old_corugwal_256",
+    "pc_source_path": "source/FromPC/ap_checkpoints/old_corugwal_256.png",
+    "reason": "8x8 smooth teal panel lacks sufficient detail to confirm corrugated wall identity."
+  },
+  {
+    "candidate_id": 1830,
+    "image_key": "8x8:a0a042859e2151873c2f72e0ee17a106c9cafc568ef46ccd450ce318d37c431e",
+    "pc_name": "motocross_256",
+    "pc_source_path": "source/FromPC/stunt/motocross_256.png",
+    "reason": "Very low-resolution cyan gradient cannot be identified as this gray concrete."
+  },
+  {
+    "candidate_id": 1838,
+    "image_key": "64x64:adeb5341f798a855b5ba83146d415c6ffed970e73a93385a411630a0be351277",
+    "pc_name": "studioroof",
+    "pc_source_path": "source/FromPC/ci_studio2/studioroof.png",
+    "reason": "Olive roof tiles matched a red tile variant."
+  },
+  {
+    "candidate_id": 1841,
+    "image_key": "64x64:1b85dd9125f4e5528590cd1a9dc6702017cb01e1965386cd785e0cb5266ae12b",
+    "pc_name": "newall1-1_16c",
+    "pc_source_path": "source/FromPC/crate/newall1-1_16c.png",
+    "reason": "Wall with six small windows matched a plain plaster wall."
+  },
+  {
+    "candidate_id": 1859,
+    "image_key": "64x64:4f2b888fed813716fac4aa9e4e01d2efe95312277b75d9c2f7af76c7f57904e0",
+    "pc_name": "concretebig3_256128",
+    "pc_source_path": "source/FromPC/ci_studionew1/concretebig3_256128.png",
+    "reason": "Different concrete grain; identity unclear."
+  },
+  {
+    "candidate_id": 1876,
+    "image_key": "32x32:4a8e3cc7bac34185ed5a23308d5a1659ce35501a8eb29963950b5f6d63a53ef9",
+    "pc_name": "coptop_brown",
+    "pc_source_path": "source/FromPC/copdoorstuff/coptop_brown.png",
+    "reason": "Gray wall matched brown wall."
+  },
+  {
+    "candidate_id": 1901,
+    "image_key": "8x8:664255ab04206145250cad31456e2f3081b794d1dd87b56e175a7c4ec923714c",
+    "pc_name": "sjmrufrd2",
+    "pc_source_path": "source/FromPC/ihaitcutmf/sjmrufrd2.png",
+    "reason": "8x8 ground corner too coarse to verify the exact road/grass layout."
+  },
+  {
+    "candidate_id": 1912,
+    "image_key": "32x32:ffb8448849a47839a18e41cdbe1316c1733b644b4a11f837df7e1bc14eddea81",
+    "pc_name": "coptop_brown",
+    "pc_source_path": "source/FromPC/copdoorstuff/coptop_brown.png",
+    "reason": "Gray wall matched brown wall."
+  },
+  {
+    "candidate_id": 1946,
+    "image_key": "8x8:0e80f29151fe8c9ca1c646383c6936f5ad8dc57959d1b763e24b32efa43a6ba3",
+    "pc_name": "wall256hi",
+    "pc_source_path": "source/FromPC/fffinhaiti/wall256hi.png",
+    "reason": "8x8 plain gray wall is too coarse to confirm this plaster texture."
+  },
+  {
+    "candidate_id": 1947,
+    "image_key": "32x32:c75d1b7f2be376755583e6b0a44626709c9f03c96ee3a5edb58b354d843d8583",
+    "pc_name": "motocross_256",
+    "pc_source_path": "source/FromPC/stunt/motocross_256.png",
+    "reason": "Dirty wall with dark base matched plain concrete; spatial details differ."
+  },
+  {
+    "candidate_id": 1953,
+    "image_key": "64x64:7711e58ac262b950c132f15b0af56ba8f6ff704db6d36d437a019b8dd60be892",
+    "pc_name": "motocross_256",
+    "pc_source_path": "source/FromPC/stunt/motocross_256.png",
+    "reason": "Nearly plain beige surface matched concrete without confirming structure."
+  },
+  {
+    "candidate_id": 1955,
+    "image_key": "16x16:8e8ad4a67b188689685b5edebbd1f63b1186173b43a2f154ea4810546e5a3f96",
+    "pc_name": "lodhastorew",
+    "pc_source_path": "source/FromPC/lodhavana/lodhastorew.png",
+    "reason": "Green storefront sign matched a yellow sign variant."
+  },
+  {
+    "candidate_id": 1959,
+    "image_key": "64x64:cf4b9896350e4a086f27f388eea590ee6eb30795c319821e48fdf6d362e786c2",
+    "pc_name": "pinkwallad256",
+    "pc_source_path": "source/FromPC/nbeachwgen/pinkwallad256.png",
+    "reason": "Saturated coral/orange wall matched a pale pink variant."
+  },
+  {
+    "candidate_id": 1961,
+    "image_key": "64x64:825fca2425f3cc8fb1f9ee80120128a6c420e40aa2d6bbdd55ba06cb0d87ec59",
+    "pc_name": "subbit92",
+    "pc_source_path": "source/FromPC/h_haibloce/subbit92.png",
+    "reason": "Olive metal wall matched a purple metal variant."
+  }
+]
